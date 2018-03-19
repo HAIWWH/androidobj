@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\androidStudio\\project\\BOOK\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\androidStudio\\project\\BOOK\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "13,14,12,15,4,5,3,8,9,10,6",
+                        "startColumns": "4,4,4,4,4,4,4,1,4,4,1",
+                        "startOffsets": "476,521,435,565,98,145,56,238,304,369,190",
+                        "endColumns": "44,43,40,48,46,47,41,62,64,64,45",
+                        "endOffsets": "516,560,471,609,140,188,93,299,364,429,234"
+                    },
+                    "to": {
+                        "startLines": "10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "284,329,373,414,463,510,558,600,666,731,796",
+                        "endColumns": "44,43,40,48,46,47,41,65,64,64,48",
+                        "endOffsets": "324,368,409,458,505,553,595,661,726,791,840"
+                    }
+                },
+                {
+                    "source": "E:\\androidStudio\\project\\BOOK\\app\\src\\main\\res\\values\\arrays.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "102",
+                        "endLines": "10",
+                        "endColumns": "19",
+                        "endOffsets": "333"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "9",
+                        "endColumns": "19",
+                        "endOffsets": "279"
+                    }
+                },
+                {
+                    "source": "E:\\androidStudio\\project\\BOOK\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "115,55",
+                        "endColumns": "49,59",
+                        "endOffsets": "160,110"
+                    },
+                    "to": {
+                        "startLines": "21,22",
+                        "startColumns": "4,4",
+                        "startOffsets": "845,895",
+                        "endColumns": "49,59",
+                        "endOffsets": "890,950"
+                    }
+                }
+            ]
+        }
+    ]
+}

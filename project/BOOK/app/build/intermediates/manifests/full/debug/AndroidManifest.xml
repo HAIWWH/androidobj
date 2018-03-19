@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.eoemobile.book.ex_widgetdemo"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="18"
+        android:targetSdkVersion="25" />
+
+    <application
+        android:debuggable="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:testOnly="true" >
+        <activity
+            android:name="com.eoemobile.book.ex_widgetdemo.BOOKActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.eoemobile.book.ex_widgetdemo.ViewTextActivity" />
+        <activity android:name="com.eoemobile.book.ex_widgetdemo.EditTextActivity" />
+        <activity android:name="com.eoemobile.book.ex_widgetdemo.CheckBoxActivity" />
+        <activity android:name="com.eoemobile.book.ex_widgetdemo.RadioGroupActivity" />
+        <activity android:name="com.eoemobile.book.ex_widgetdemo.SpinnerActivity" />
+        <activity android:name="com.eoemobile.book.ex_widgetdemo.AutoCompleteTextViewActivity" />
+        <activity android:name="com.eoemobile.book.ex_widgetdemo.DatePickerActivity" />
+        <activity android:name="com.eoemobile.book.ex_widgetdemo.TimePickerActivity" />
+        <activity android:name="com.eoemobile.book.ex_widgetdemo.ProgressBarActivity" />
+        <activity android:name="com.eoemobile.book.ex_widgetdemo.SeekBarActivity" />
+        <activity android:name="com.eoemobile.book.ex_widgetdemo.RatingBarActivity" />
+        <activity android:name="com.eoemobile.book.ex_widgetdemo.ImageViewActivity" />
+        <activity android:name="com.eoemobile.book.ex_widgetdemo.ImageButtonActivity" />
+        <activity android:name="com.eoemobile.book.ex_widgetdemo.ImageShowActivity" />
+        <activity android:name="com.eoemobile.book.ex_widgetdemo.GridViewActivity" />
+        <activity android:name="com.eoemobile.book.ex_widgetdemo.TabDemoActivity" />
+    </application>
+
+</manifest>

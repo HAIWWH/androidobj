@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.stengg.android.sns"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk android:minSdkVersion="8" />
+
+    <application
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name" >
+        <activity
+            android:label="@string/app_name"
+            android:name=".SNSActivity" >
+            <intent-filter >
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:launchMode="standard"
+            android:name=".activity.LoginActivity" >
+        </activity>
+        <activity
+            android:launchMode="standard"
+            android:name=".activity.MainActivity" >
+        </activity>
+        <activity
+            android:launchMode="standard"
+            android:name=".activity.HomeActivity" >
+        </activity>
+        <activity
+            android:launchMode="standard"
+            android:name=".activity.LooksActivity" >
+        </activity>
+        <activity
+            android:launchMode="standard"
+            android:name=".activity.CameraActivity" >
+        </activity>
+        <activity
+            android:launchMode="standard"
+            android:name=".activity.ShoppingActivity" >
+        </activity>
+        <activity
+            android:launchMode="standard"
+            android:name=".activity.ShowActivity" >
+        </activity>
+        <activity
+            android:launchMode="standard"
+            android:name=".activity.SettingActivity" >
+        </activity>
+        <activity
+            android:launchMode="standard"
+            android:name=".activity.RegisterActivity" >
+        </activity>
+        <activity
+            android:launchMode="standard"
+            android:name=".activity.LoginActivity" >
+        </activity>
+        <activity
+            android:launchMode="standard"
+            android:name=".activity.GalleryActivity" >
+        </activity>
+         <activity
+            android:launchMode="standard"
+            android:name=".activity.SearchActivity" >
+        </activity>
+        <activity
+            android:launchMode="standard"
+            android:name=".activity.BrowseActivity" >
+        </activity>
+             
+             
+             
+    </application>
+
+</manifest>

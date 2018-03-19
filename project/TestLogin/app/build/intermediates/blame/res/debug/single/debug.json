@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "E:\\androidStudio\\project\\TestLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_qq_btn_check.xml.flat",
+        "source": "E:\\androidStudio\\project\\TestLogin\\app\\src\\main\\res\\drawable-mdpi\\qq_btn_check.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TestLogin\\app\\build\\intermediates\\res\\merged\\debug\\color_qq_checkbox_text_color.xml.flat",
+        "source": "E:\\androidStudio\\project\\TestLogin\\app\\src\\main\\res\\color\\qq_checkbox_text_color.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TestLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_h001.png.flat",
+        "source": "E:\\androidStudio\\project\\TestLogin\\app\\src\\main\\res\\drawable-mdpi\\h001.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TestLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_qq_edit_login.xml.flat",
+        "source": "E:\\androidStudio\\project\\TestLogin\\app\\src\\main\\res\\drawable-mdpi\\qq_edit_login.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TestLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_default_bg_hdpi.png.flat",
+        "source": "E:\\androidStudio\\project\\TestLogin\\app\\src\\main\\res\\drawable-hdpi\\default_bg_hdpi.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TestLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_login_head.xml.flat",
+        "source": "E:\\androidStudio\\project\\TestLogin\\app\\src\\main\\res\\drawable-mdpi\\login_head.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TestLogin\\app\\build\\intermediates\\res\\merged\\debug\\layout_load_more.xml.flat",
+        "source": "E:\\androidStudio\\project\\TestLogin\\app\\src\\main\\res\\layout\\load_more.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TestLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "E:\\androidStudio\\project\\TestLogin\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TestLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_button2_over.png.flat",
+        "source": "E:\\androidStudio\\project\\TestLogin\\app\\src\\main\\res\\drawable-mdpi\\button2_over.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TestLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_login_back.9.png.flat",
+        "source": "E:\\androidStudio\\project\\TestLogin\\app\\src\\main\\res\\drawable-mdpi\\login_back.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TestLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_button2_down.png.flat",
+        "source": "E:\\androidStudio\\project\\TestLogin\\app\\src\\main\\res\\drawable-mdpi\\button2_down.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TestLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_check_on_selected.png.flat",
+        "source": "E:\\androidStudio\\project\\TestLogin\\app\\src\\main\\res\\drawable-mdpi\\btn_check_on_selected.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TestLogin\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "E:\\androidStudio\\project\\TestLogin\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TestLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_check_off_selected.png.flat",
+        "source": "E:\\androidStudio\\project\\TestLogin\\app\\src\\main\\res\\drawable-mdpi\\btn_check_off_selected.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TestLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_check_on.png.flat",
+        "source": "E:\\androidStudio\\project\\TestLogin\\app\\src\\main\\res\\drawable-mdpi\\btn_check_on.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TestLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_input_over.9.png.flat",
+        "source": "E:\\androidStudio\\project\\TestLogin\\app\\src\\main\\res\\drawable-mdpi\\input_over.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TestLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_default_bg.png.flat",
+        "source": "E:\\androidStudio\\project\\TestLogin\\app\\src\\main\\res\\drawable-mdpi\\default_bg.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TestLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "E:\\androidStudio\\project\\TestLogin\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TestLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_check_on_pressed.png.flat",
+        "source": "E:\\androidStudio\\project\\TestLogin\\app\\src\\main\\res\\drawable-mdpi\\btn_check_on_pressed.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TestLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_check_off.png.flat",
+        "source": "E:\\androidStudio\\project\\TestLogin\\app\\src\\main\\res\\drawable-mdpi\\btn_check_off.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TestLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_more_select.xml.flat",
+        "source": "E:\\androidStudio\\project\\TestLogin\\app\\src\\main\\res\\drawable-mdpi\\more_select.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TestLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_login_input.9.png.flat",
+        "source": "E:\\androidStudio\\project\\TestLogin\\app\\src\\main\\res\\drawable-mdpi\\login_input.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TestLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_button2.png.flat",
+        "source": "E:\\androidStudio\\project\\TestLogin\\app\\src\\main\\res\\drawable-mdpi\\button2.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TestLogin\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item.xml.flat",
+        "source": "E:\\androidStudio\\project\\TestLogin\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TestLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "E:\\androidStudio\\project\\TestLogin\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TestLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_option_normal.png.flat",
+        "source": "E:\\androidStudio\\project\\TestLogin\\app\\src\\main\\res\\drawable-mdpi\\option_normal.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TestLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_option.xml.flat",
+        "source": "E:\\androidStudio\\project\\TestLogin\\app\\src\\main\\res\\drawable-mdpi\\option.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TestLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bottom.9.png.flat",
+        "source": "E:\\androidStudio\\project\\TestLogin\\app\\src\\main\\res\\drawable-mdpi\\bottom.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TestLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_qq_spinner_login.xml.flat",
+        "source": "E:\\androidStudio\\project\\TestLogin\\app\\src\\main\\res\\drawable-mdpi\\qq_spinner_login.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TestLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_option_selected.png.flat",
+        "source": "E:\\androidStudio\\project\\TestLogin\\app\\src\\main\\res\\drawable-mdpi\\option_selected.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TestLogin\\app\\build\\intermediates\\res\\merged\\debug\\layout_loginpage.xml.flat",
+        "source": "E:\\androidStudio\\project\\TestLogin\\app\\src\\main\\res\\layout\\loginpage.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TestLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_faceback.png.flat",
+        "source": "E:\\androidStudio\\project\\TestLogin\\app\\src\\main\\res\\drawable-mdpi\\faceback.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TestLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_login_spinner.9.png.flat",
+        "source": "E:\\androidStudio\\project\\TestLogin\\app\\src\\main\\res\\drawable-mdpi\\login_spinner.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TestLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_check_off_pressed.png.flat",
+        "source": "E:\\androidStudio\\project\\TestLogin\\app\\src\\main\\res\\drawable-mdpi\\btn_check_off_pressed.png"
+    }
+]

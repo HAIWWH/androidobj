@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\androidStudio\\project\\Flashlight\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ja-rJP\\values-ja-rJP.xml",
+            "map": [
+                {
+                    "source": "E:\\androidStudio\\project\\Flashlight\\app\\src\\main\\res\\values-ja-rJP\\strings.xml",
+                    "from": {
+                        "startLines": "3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "58,105,156,196,235,279",
+                        "endColumns": "46,50,39,38,43,42",
+                        "endOffsets": "100,151,191,230,274,317"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,102,153,193,232,276",
+                        "endColumns": "46,50,39,38,43,42",
+                        "endOffsets": "97,148,188,227,271,314"
+                    }
+                }
+            ]
+        }
+    ]
+}

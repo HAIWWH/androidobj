@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\androidStudio\\project\\ImageFilterForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\androidStudio\\project\\ImageFilterForAndroid-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "103,56",
+                        "endColumns": "58,46",
+                        "endOffsets": "157,98"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,114",
+                        "endColumns": "58,46",
+                        "endOffsets": "109,156"
+                    }
+                }
+            ]
+        }
+    ]
+}

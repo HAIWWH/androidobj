@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Fri Jan 26 16:29:39 CST 2018
+1.base=E\:\\androidStudio\\project\\SocketClient\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+4.file=E\:\\androidStudio\\project\\SocketClient\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\main.xml
+1.file=E\:\\androidStudio\\project\\SocketClient\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\AndroidManifest.xml
+4.set=ANDROID_RESOURCE
+2.base=E\:\\androidStudio\\project\\SocketClient\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+3.set=DEX
+2.set=ANDROID_RESOURCE
+2.file=E\:\\androidStudio\\project\\SocketClient\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+count=5
+1.set=ANDROID_RESOURCE
+3.base=E\:\\androidStudio\\project\\SocketClient\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.set=ANDROID_RESOURCE
+0.base=E\:\\androidStudio\\project\\SocketClient\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+3.file=E\:\\androidStudio\\project\\SocketClient\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
+0.file=E\:\\androidStudio\\project\\SocketClient\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\resources.arsc
+4.base=E\:\\androidStudio\\project\\SocketClient\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_

@@ -1,0 +1,98 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\androidStudio\\project\\Tools\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "E:\\androidStudio\\project\\Tools\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2,20,24,8,16",
+                        "startColumns": "1,1,1,1,1",
+                        "startOffsets": "52,825,961,361,679",
+                        "endLines": "7,23,26,14,19",
+                        "endColumns": "9,9,9,9,9",
+                        "endOffsets": "359,959,1066,676,823"
+                    },
+                    "to": {
+                        "startLines": "51,57,61,64,71",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "2442,2754,2893,3003,3323",
+                        "endLines": "56,60,63,70,74",
+                        "endColumns": "9,9,9,9,9",
+                        "endOffsets": "2749,2888,2998,3318,3467"
+                    }
+                },
+                {
+                    "source": "E:\\androidStudio\\project\\Tools\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "104,55",
+                        "endColumns": "45,48",
+                        "endOffsets": "145,99"
+                    },
+                    "to": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "107,153",
+                        "endColumns": "45,48",
+                        "endOffsets": "148,197"
+                    }
+                },
+                {
+                    "source": "E:\\androidStudio\\project\\Tools\\app\\src\\main\\res\\values\\ids.xml",
+                    "from": {
+                        "startLines": "11,8,3,2,7,13,16,15,4,9,5",
+                        "startColumns": "1,1,1,1,1,1,1,1,1,1,1",
+                        "startOffsets": "325,248,92,54,209,367,449,408,130,285,169",
+                        "endColumns": "37,35,36,36,37,36,34,39,37,35,35",
+                        "endOffsets": "361,282,127,89,245,402,482,446,166,319,203"
+                    },
+                    "to": {
+                        "startLines": "5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "202,242,280,320,360,401,440,477,519,560,598",
+                        "endColumns": "39,37,39,39,40,38,36,41,40,37,38",
+                        "endOffsets": "237,275,315,355,396,435,472,514,555,593,632"
+                    }
+                },
+                {
+                    "source": "E:\\androidStudio\\project\\Tools\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "34,2,22,5,4,33,31,20,19,21,7,6,16,15,8,30,13,12,11,10,26,25,27,24,23,29",
+                        "startColumns": "1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1",
+                        "startOffsets": "1502,52,757,128,92,1449,1383,645,591,700,208,163,549,507,256,1328,456,406,358,306,1071,968,1190,849,802,1261",
+                        "endLines": "43,2,22,5,4,33,31,20,19,21,7,6,16,15,8,30,13,12,11,10,26,25,27,24,23,29",
+                        "endColumns": "10,38,44,34,35,52,64,54,53,56,47,44,39,41,48,54,49,49,47,51,118,102,69,118,46,66",
+                        "endOffsets": "1784,89,800,161,126,1500,1446,698,643,755,254,206,587,547,303,1381,504,454,404,356,1188,1069,1258,966,847,1326"
+                    },
+                    "to": {
+                        "startLines": "16,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "637,924,966,1014,1052,1091,1147,1215,1273,1330,1390,1441,1489,1532,1577,1629,1687,1740,1793,1844,1899,2021,2127,2200,2322,2372",
+                        "endLines": "25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50",
+                        "endColumns": "10,41,47,37,38,55,67,57,56,59,50,47,42,44,51,57,52,52,50,54,121,105,72,121,49,69",
+                        "endOffsets": "919,961,1009,1047,1086,1142,1210,1268,1325,1385,1436,1484,1527,1572,1624,1682,1735,1788,1839,1894,2016,2122,2195,2317,2367,2437"
+                    }
+                },
+                {
+                    "source": "E:\\androidStudio\\project\\Tools\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "51",
+                        "endOffsets": "104"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "51",
+                        "endOffsets": "102"
+                    }
+                }
+            ]
+        }
+    ]
+}

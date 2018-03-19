@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="BLACK">#000000</color>
+    <color name="BLUE">#FF00FF</color>
+    <color name="SHS">#EBC79E</color>
+    <color name="TEXT_COLOR">#EEC900</color>
+    <color name="VIFRIFICATION">#00ffffff</color>
+    <color name="WHITE">#ffffff</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">友情提示</string>
+    <string name="hello_world">Hello world!</string>
+    <style name="ActivityTheme" parent="AppBaseTheme">
+        <item name="android:windowBackground">@color/WHITE</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="AppBaseTheme" parent="android:Theme.Light"/>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\androidStudio\\project\\renlianshibie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_face1.png.flat",
+        "source": "E:\\androidStudio\\project\\renlianshibie\\app\\src\\main\\res\\drawable-nodpi\\face1.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\renlianshibie\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "E:\\androidStudio\\project\\renlianshibie\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\renlianshibie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_icon.png.flat",
+        "source": "E:\\androidStudio\\project\\renlianshibie\\app\\src\\main\\res\\drawable-nodpi\\icon.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\renlianshibie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_face3.png.flat",
+        "source": "E:\\androidStudio\\project\\renlianshibie\\app\\src\\main\\res\\drawable-nodpi\\face3.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\renlianshibie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_face2.png.flat",
+        "source": "E:\\androidStudio\\project\\renlianshibie\\app\\src\\main\\res\\drawable-nodpi\\face2.png"
+    }
+]

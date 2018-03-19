@@ -1,0 +1,326 @@
+[
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_paopao.9.png.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable-hdpi\\paopao.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_away.png.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable-hdpi\\icon_away.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_hide.png.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable-hdpi\\hide.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout_chat_content_item.xml.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\layout\\chat_content_item.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_option_normal.png.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable-hdpi\\option_normal.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_h001.png.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable-hdpi\\h001.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout_parent_item.xml.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\layout\\parent_item.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable_option_selector.xml.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable\\option_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout_register.xml.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\layout\\register.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_check_off.png.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable-hdpi\\btn_check_off.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable_itembg.xml.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable\\itembg.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout_group_item.xml.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\layout\\group_item.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button.xml.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable\\button.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab1_selector.xml.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable\\tab1_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab3_selector.xml.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable\\tab3_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_input.9.png.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable-hdpi\\input.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab3_over.png.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable-hdpi\\tab3_over.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\anim_loadding.xml.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\anim\\loadding.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable_list_alpha_selector.xml.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable\\list_alpha_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shurukuang.9.png.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable-hdpi\\shurukuang.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout_group.xml.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\layout\\group.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_expand_column_bg.9.png.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable-hdpi\\expand_column_bg.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_topbar_select.9.png.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable-hdpi\\topbar_select.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab2_over.png.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable-hdpi\\tab2_over.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable_list_group_selector.xml.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable\\list_group_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_option_selected.png.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable-hdpi\\option_selected.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_narrow.9.png.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable-hdpi\\narrow.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab1_over.png.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable-hdpi\\tab1_over.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_check_on.png.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable-hdpi\\btn_check_on.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_faceback.png.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable-hdpi\\faceback.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bottombar_qzone_unselected.png.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable-hdpi\\bottombar_qzone_unselected.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab3_normal.png.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable-hdpi\\tab3_normal.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout_login.xml.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable_expand_group.xml.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable\\expand_group.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_offline.png.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable-hdpi\\icon_offline.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_largehead.png.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable-ldpi\\largehead.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_chat_paopao.png.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable-hdpi\\chat_paopao.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_show.png.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable-hdpi\\show.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout_child_item.xml.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\layout\\child_item.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bottom.9.png.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable-hdpi\\bottom.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_photobg.9.png.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable-hdpi\\photobg.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab1_normal.png.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable-hdpi\\tab1_normal.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_chat_emotion.png.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable-hdpi\\chat_emotion.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab2_selector.xml.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable\\tab2_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable_checkbox.xml.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable\\checkbox.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_expand.png.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable-hdpi\\expand.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_group_head.png.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable-hdpi\\group_head.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chat_input_selector.xml.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable\\chat_input_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_qq_btn_pressed.9.png.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable-hdpi\\qq_btn_pressed.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout_chat.xml.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\layout\\chat.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bottombar_qzone_selected.png.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable-hdpi\\bottombar_qzone_selected.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_topface_back.png.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable-hdpi\\topface_back.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_largehead.png.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable-mdpi\\largehead.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab2_normal.png.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable-hdpi\\tab2_normal.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\anim_zoomout.xml.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\anim\\zoomout.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_faceback_manager.png.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable-hdpi\\faceback_manager.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_qq_btn_normal.9.png.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable-hdpi\\qq_btn_normal.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chat_emotion_selector.xml.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable\\chat_emotion_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_chat_emotion_over.png.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable-hdpi\\chat_emotion_over.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add_selector.xml.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable\\add_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_faceback_head.png.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable-hdpi\\faceback_head.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mainbodytop.png.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable-hdpi\\mainbodytop.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_chat_quit_nor.png.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable-hdpi\\chat_quit_nor.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_input_over.9.png.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable-hdpi\\input_over.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\raw_msg.mp3.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\raw\\msg.mp3"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout_group_content.xml.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\layout\\group_content.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_narrow_select.9.png.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable-hdpi\\narrow_select.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_online.png.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable-hdpi\\icon_online.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bodylisttop.9.png.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable-hdpi\\bodylisttop.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector.xml.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable\\selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout_near_content.xml.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\layout\\near_content.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_largehead.png.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable-hdpi\\largehead.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\anim_zoomin.xml.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\anim\\zoomin.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_divider_group.png.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable-hdpi\\divider_group.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\layout_friend_content.xml.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\layout\\friend_content.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_invisiable.png.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable-hdpi\\icon_invisiable.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\TuliaoClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable_list_child_selector.xml.flat",
+        "source": "E:\\androidStudio\\project\\TuliaoClient\\app\\src\\main\\res\\drawable\\list_child_selector.xml"
+    }
+]

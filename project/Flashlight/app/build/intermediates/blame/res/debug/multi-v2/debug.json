@@ -1,0 +1,92 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\androidStudio\\project\\Flashlight\\app\\build\\intermediates\\res\\merged\\debug\\values-ko-rKR_values-ko-rKR.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\androidStudio\\project\\Flashlight\\app\\src\\main\\res\\values-ko-rKR\\strings.xml",
+                    "from": {
+                        "startLines": "3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "58,105,159,200,239,285",
+                        "endColumns": "46,53,40,38,45,43",
+                        "endOffsets": "100,154,195,234,280,324"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,102,156,197,236,282",
+                        "endColumns": "46,53,40,38,45,43",
+                        "endOffsets": "97,151,192,231,277,321"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\androidStudio\\project\\Flashlight\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\androidStudio\\project\\Flashlight\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "58,111,173,221,270,318",
+                        "endColumns": "52,61,47,48,47,44",
+                        "endOffsets": "106,168,216,265,313,358"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,108,170,218,267,315",
+                        "endColumns": "52,61,47,48,47,44",
+                        "endOffsets": "103,165,213,262,310,355"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\androidStudio\\project\\Flashlight\\app\\build\\intermediates\\res\\merged\\debug\\values-zh-rCN_values-zh-rCN.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\androidStudio\\project\\Flashlight\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "from": {
+                        "startLines": "3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "58,104,151,191,230,268",
+                        "endColumns": "45,46,39,38,37,42",
+                        "endOffsets": "99,146,186,225,263,306"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,101,148,188,227,265",
+                        "endColumns": "45,46,39,38,37,42",
+                        "endOffsets": "96,143,183,222,260,303"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\androidStudio\\project\\Flashlight\\app\\build\\intermediates\\res\\merged\\debug\\values-ja-rJP_values-ja-rJP.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\androidStudio\\project\\Flashlight\\app\\src\\main\\res\\values-ja-rJP\\strings.xml",
+                    "from": {
+                        "startLines": "3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "58,105,156,196,235,279",
+                        "endColumns": "46,50,39,38,43,42",
+                        "endOffsets": "100,151,191,230,274,317"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,102,153,193,232,276",
+                        "endColumns": "46,50,39,38,43,42",
+                        "endOffsets": "97,148,188,227,271,314"
+                    }
+                }
+            ]
+        }
+    ]
+}

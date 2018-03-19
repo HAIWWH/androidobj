@@ -1,0 +1,93 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml:3:2-36
+		INJECTED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml
+		INJECTED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml:4:2-27
+		INJECTED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml
+		INJECTED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml:3:37-60
+		INJECTED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml
+		INJECTED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml:5:2-40
+INJECTED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml:5:2-40
+INJECTED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml:5:2-40
+INJECTED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml:5:2-40
+INJECTED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml:5:2-40
+	android:targetSdkVersion
+		INJECTED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml
+		ADDED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml:5:2-40
+		INJECTED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml:5:12-37
+		INJECTED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml
+		INJECTED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml
+application
+ADDED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml:7:2-19:16
+	android:label
+		ADDED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml:7:45-77
+	android:icon
+		ADDED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml:7:15-44
+activity#com.shinylife.smalltools.Splash
+ADDED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml:8:3-13:14
+	android:label
+		ADDED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml:8:36-68
+	android:theme
+		ADDED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml:8:69-106
+	android:name
+		ADDED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml:8:13-35
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml:9:4-12:20
+action#android.intent.action.MAIN
+ADDED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml:10:5-57
+	android:name
+		ADDED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml:10:13-54
+category#android.intent.category.LAUNCHER
+ADDED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml:11:15-62
+activity#com.shinylife.smalltools.SmallToolsActivity
+ADDED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml:15:3-88
+	android:theme
+		ADDED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml:15:48-85
+	android:name
+		ADDED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml:15:13-47
+activity#com.shinylife.smalltools.QueryAddress
+ADDED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml:16:3-82
+	android:theme
+		ADDED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml:16:42-79
+	android:name
+		ADDED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml:16:13-41
+activity#com.shinylife.smalltools.QueryIDCard
+ADDED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml:17:3-81
+	android:theme
+		ADDED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml:17:41-78
+	android:name
+		ADDED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml:17:13-40
+activity#com.shinylife.smalltools.QueryPhone
+ADDED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml:18:3-80
+	android:theme
+		ADDED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml:18:40-77
+	android:name
+		ADDED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml:18:13-39
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml:20:2-76
+	android:name
+		ADDED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml:20:19-73
+uses-permission#android.permission.INTERNET
+ADDED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml:21:2-64
+	android:name
+		ADDED from E:\androidStudio\project\Tools\app\src\main\AndroidManifest.xml:21:19-61

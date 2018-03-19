@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Fri Jan 26 15:26:30 CST 2018
+2.base=E\:\\androidStudio\\project\\renlianshibie\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+5.file=E\:\\androidStudio\\project\\renlianshibie\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-nodpi-v4\\icon.png
+5.set=ANDROID_RESOURCE
+3.base=E\:\\androidStudio\\project\\renlianshibie\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+6.file=E\:\\androidStudio\\project\\renlianshibie\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
+2.set=ANDROID_RESOURCE
+4.base=E\:\\androidStudio\\project\\renlianshibie\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+7.file=E\:\\androidStudio\\project\\renlianshibie\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\main.xml
+7.set=ANDROID_RESOURCE
+count=8
+0.file=E\:\\androidStudio\\project\\renlianshibie\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\AndroidManifest.xml
+5.base=E\:\\androidStudio\\project\\renlianshibie\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=E\:\\androidStudio\\project\\renlianshibie\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+1.file=E\:\\androidStudio\\project\\renlianshibie\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-nodpi-v4\\face2.png
+1.set=ANDROID_RESOURCE
+7.base=E\:\\androidStudio\\project\\renlianshibie\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+2.file=E\:\\androidStudio\\project\\renlianshibie\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\resources.arsc
+6.set=DEX
+0.base=E\:\\androidStudio\\project\\renlianshibie\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+3.file=E\:\\androidStudio\\project\\renlianshibie\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-nodpi-v4\\face1.png
+3.set=ANDROID_RESOURCE
+1.base=E\:\\androidStudio\\project\\renlianshibie\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+4.file=E\:\\androidStudio\\project\\renlianshibie\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-nodpi-v4\\face3.png
+0.set=ANDROID_RESOURCE

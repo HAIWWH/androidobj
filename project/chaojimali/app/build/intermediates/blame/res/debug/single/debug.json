@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "E:\\androidStudio\\project\\chaojimali\\app\\build\\intermediates\\res\\merged\\debug\\raw_bullet_1.mp3.flat",
+        "source": "E:\\androidStudio\\project\\chaojimali\\app\\src\\main\\res\\raw\\bullet_1.mp3"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\chaojimali\\app\\build\\intermediates\\res\\merged\\debug\\raw_level_3.ogg.flat",
+        "source": "E:\\androidStudio\\project\\chaojimali\\app\\src\\main\\res\\raw\\level_3.ogg"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\chaojimali\\app\\build\\intermediates\\res\\merged\\debug\\raw_menu.mid.flat",
+        "source": "E:\\androidStudio\\project\\chaojimali\\app\\src\\main\\res\\raw\\menu.mid"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\chaojimali\\app\\build\\intermediates\\res\\merged\\debug\\raw_pluslife.mp3.flat",
+        "source": "E:\\androidStudio\\project\\chaojimali\\app\\src\\main\\res\\raw\\pluslife.mp3"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\chaojimali\\app\\build\\intermediates\\res\\merged\\debug\\raw_gameover.mp3.flat",
+        "source": "E:\\androidStudio\\project\\chaojimali\\app\\src\\main\\res\\raw\\gameover.mp3"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\chaojimali\\app\\build\\intermediates\\res\\merged\\debug\\layout_optionsmain.xml.flat",
+        "source": "E:\\androidStudio\\project\\chaojimali\\app\\src\\main\\res\\layout\\optionsmain.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\chaojimali\\app\\build\\intermediates\\res\\merged\\debug\\raw_step_on_enemy.mp3.flat",
+        "source": "E:\\androidStudio\\project\\chaojimali\\app\\src\\main\\res\\raw\\step_on_enemy.mp3"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\chaojimali\\app\\build\\intermediates\\res\\merged\\debug\\raw_coin.mp3.flat",
+        "source": "E:\\androidStudio\\project\\chaojimali\\app\\src\\main\\res\\raw\\coin.mp3"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\chaojimali\\app\\build\\intermediates\\res\\merged\\debug\\raw_bullet_or_tortoise_hit.mp3.flat",
+        "source": "E:\\androidStudio\\project\\chaojimali\\app\\src\\main\\res\\raw\\bullet_or_tortoise_hit.mp3"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\chaojimali\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\androidStudio\\project\\chaojimali\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\chaojimali\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "E:\\androidStudio\\project\\chaojimali\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\chaojimali\\app\\build\\intermediates\\res\\merged\\debug\\raw_button.ogg.flat",
+        "source": "E:\\androidStudio\\project\\chaojimali\\app\\src\\main\\res\\raw\\button.ogg"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\chaojimali\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\androidStudio\\project\\chaojimali\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\chaojimali\\app\\build\\intermediates\\res\\merged\\debug\\raw_level_2.mp3.flat",
+        "source": "E:\\androidStudio\\project\\chaojimali\\app\\src\\main\\res\\raw\\level_2.mp3"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\chaojimali\\app\\build\\intermediates\\res\\merged\\debug\\raw_level_4.mp3.flat",
+        "source": "E:\\androidStudio\\project\\chaojimali\\app\\src\\main\\res\\raw\\level_4.mp3"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\chaojimali\\app\\build\\intermediates\\res\\merged\\debug\\raw_level_win.mp3.flat",
+        "source": "E:\\androidStudio\\project\\chaojimali\\app\\src\\main\\res\\raw\\level_win.mp3"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\chaojimali\\app\\build\\intermediates\\res\\merged\\debug\\raw_bullet_2.mp3.flat",
+        "source": "E:\\androidStudio\\project\\chaojimali\\app\\src\\main\\res\\raw\\bullet_2.mp3"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\chaojimali\\app\\build\\intermediates\\res\\merged\\debug\\raw_eatfood.mp3.flat",
+        "source": "E:\\androidStudio\\project\\chaojimali\\app\\src\\main\\res\\raw\\eatfood.mp3"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\chaojimali\\app\\build\\intermediates\\res\\merged\\debug\\raw_dead.mp3.flat",
+        "source": "E:\\androidStudio\\project\\chaojimali\\app\\src\\main\\res\\raw\\dead.mp3"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\chaojimali\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog.xml.flat",
+        "source": "E:\\androidStudio\\project\\chaojimali\\app\\src\\main\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\chaojimali\\app\\build\\intermediates\\res\\merged\\debug\\raw_hit.mp3.flat",
+        "source": "E:\\androidStudio\\project\\chaojimali\\app\\src\\main\\res\\raw\\hit.mp3"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\chaojimali\\app\\build\\intermediates\\res\\merged\\debug\\raw_top_of_food.mp3.flat",
+        "source": "E:\\androidStudio\\project\\chaojimali\\app\\src\\main\\res\\raw\\top_of_food.mp3"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\chaojimali\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_image.jpg.flat",
+        "source": "E:\\androidStudio\\project\\chaojimali\\app\\src\\main\\res\\drawable-hdpi\\image.jpg"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\chaojimali\\app\\build\\intermediates\\res\\merged\\debug\\menu_mario.xml.flat",
+        "source": "E:\\androidStudio\\project\\chaojimali\\app\\src\\main\\res\\menu\\mario.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\chaojimali\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "E:\\androidStudio\\project\\chaojimali\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\chaojimali\\app\\build\\intermediates\\res\\merged\\debug\\raw_level_1.mp3.flat",
+        "source": "E:\\androidStudio\\project\\chaojimali\\app\\src\\main\\res\\raw\\level_1.mp3"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\chaojimali\\app\\build\\intermediates\\res\\merged\\debug\\raw_jump.mp3.flat",
+        "source": "E:\\androidStudio\\project\\chaojimali\\app\\src\\main\\res\\raw\\jump.mp3"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\chaojimali\\app\\build\\intermediates\\res\\merged\\debug\\raw_no_time.mp3.flat",
+        "source": "E:\\androidStudio\\project\\chaojimali\\app\\src\\main\\res\\raw\\no_time.mp3"
+    }
+]

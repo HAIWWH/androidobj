@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="boy_name">#ff0099ee</color>
+    <color name="girl_name">#ffe71f8d</color>
+    <color name="font_like">#ffff0066</color>
+    <color name="font_note">#ff0099ff</color>
+    <color name="fans_nmu">#ff09afd9</color>
+    <color name="slider_page">#ff999999</color>
+    <color name="index_desc">#ff666666</color>
+    <color name="black">#ff333333</color>
+    <color name="white">#ffffffff</color>
+    <color name="t_color">#ff0099ee</color>
+    <color name="user_home_fans_bg">#ffe6366c</color>
+    <color name="user_home_t_info_color">#ff8f8f8f</color>
+    <color name="single_t_desc_color">#ff669900</color>
+    <color name="comment_me_color">#ff669900</color>
+    <color name="img_type_grey_color">#ff8f8f8f</color>
+    <color name="img_type_select_color">#ff669900</color>
+    <color name="my_transparent">#c0000000</color>
+    <color name="mogujie_register_title">#ff669900</color>
+    <color name="mogujie_register_proto">#ff0099ee</color>
+</resources>

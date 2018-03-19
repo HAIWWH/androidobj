@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="startup_tabs">
+    <item>Friends</item>
+    <item>Places</item>
+  </string-array>
+    <string-array name="startup_tabs_values">
+    <item>Friends</item>
+    <item>Places</item>
+  </string-array>
+    <string-array name="tipLists">
+    <item>Tip</item>
+    <item>Todo</item>
+  </string-array>
+    <color name="black">#ff333333</color>
+    <color name="boy_name">#ff0099ee</color>
+    <color name="comment_me_color">#ff669900</color>
+    <color name="fans_nmu">#ff09afd9</color>
+    <color name="font_like">#ffff0066</color>
+    <color name="font_note">#ff0099ff</color>
+    <color name="girl_name">#ffe71f8d</color>
+    <color name="img_type_grey_color">#ff8f8f8f</color>
+    <color name="img_type_select_color">#ff669900</color>
+    <color name="index_desc">#ff666666</color>
+    <color name="mogujie_register_proto">#ff0099ee</color>
+    <color name="mogujie_register_title">#ff669900</color>
+    <color name="my_transparent">#c0000000</color>
+    <color name="single_t_desc_color">#ff669900</color>
+    <color name="slider_page">#ff999999</color>
+    <color name="t_color">#ff0099ee</color>
+    <color name="user_home_fans_bg">#ffe6366c</color>
+    <color name="user_home_t_info_color">#ff8f8f8f</color>
+    <color name="white">#ffffffff</color>
+    <dimen name="bottom_tab_font_size">10.0dip</dimen>
+    <dimen name="bottom_tab_padding_drawable">2.0dip</dimen>
+    <dimen name="bottom_tab_padding_up">2.0dip</dimen>
+    <dimen name="button_height">25.0dip</dimen>
+    <dimen name="switch_logo_bottom_padding">20.0sp</dimen>
+    <string name="account">账号：</string>
+    <string name="app_name">STENGG SNS</string>
+    <string name="dapei">我的搭配</string>
+    <string name="dapei_desc">服装搭配、街拍。展示你的Style。</string>
+    <string name="data_loading">数据加载中</string>
+    <string name="data_loading_err">数据加载失败</string>
+    <string name="hello">Hello World, AndroidActivity!</string>
+    <string name="input_account">邮箱或昵称</string>
+    <string name="loading">加载中...</string>
+    <string name="login">登录</string>
+    <string name="login_cancel">取消</string>
+    <string name="login_other_desc">您也可以用以下方式登录：</string>
+    <string name="login_sina">使用新浪微博账号登录</string>
+    <string name="login_sina_btn">使用新浪微博登录</string>
+    <string name="login_taobao">使用淘宝账号登录</string>
+    <string name="login_tencent">使用QQ账号登录</string>
+    <string name="network_err_desc1">处于离线状态，请您检查网络设置！</string>
+    <string name="network_err_desc2">打开网络后请点击刷新按钮</string>
+    <string name="new_photo_ch">修改</string>
+    <string name="new_psw">新的密码：</string>
+    <string name="new_psw_confirm">确认新的密码：</string>
+    <string name="new_psw_ok">确定</string>
+    <string name="no_search_results">没搜到</string>
+    <string name="normal_p">一般照片</string>
+    <string name="normal_p_desc">随手拍，把有趣的和蘑菇分享。</string>
+    <string name="old_psw">现在的密码：</string>
+    <string name="password">密码：</string>
+    <string name="refresh">刷新</string>
+    <string name="register_click_desc">点击注册按钮，即表示您已经看过并且同意</string>
+    <string name="register_desc">立即注册</string>
+    <string name="register_email">电子邮箱：</string>
+    <string name="register_name">昵称：</string>
+    <string name="register_proto">《SNS网络服务使用协议》</string>
+    <string name="register_psw">密码：</string>
+    <string name="register_psw_confirm">确认密码：</string>
+    <string name="register_title">加入SNS，发现时尚，分享购物乐趣！</string>
+    <string name="sdcard_err_desc1">SD卡不可用，请您检查SD卡设置！</string>
+    <string name="sdcard_err_desc2">SD卡可用后请点击刷新按钮</string>
+    <string name="searchHint">请输入关键字</string>
+    <string name="select_publish_img_type">请选择照片类型</string>
+    <string name="set_gps_desc">打开该设置，在您发表新文章时，将把您的地理位置信息同步到服务器，以便分享给您附近的蘑菇网友。</string>
+    <string name="set_ue_desc">打开该设置能够帮助我们改善手机软件的使用体验。我们会收集到您使用该软件的行为习惯，但绝不包含与您相关的隐私信息。</string>
+    <string name="shaihuo">我的晒货</string>
+    <string name="shaihuo_desc">实拍照片，汇报Shopping成果。</string>
+    <string name="show_password">显示密码</string>
+    <string name="sina_input_account">邮箱/会员账号/手机号</string>
+    <string name="website">web site url</string>
+    <string name="website_name">Site Name</string>
+    <style name="dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:background">@null</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="home_list">
+        <item name="android:textColor">#0000ff</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:layout_marginRight">2.0dip</item>
+        <item name="android:layout_marginLeft">2.0dip</item>
+        <item name="android:layout_marginTop">1.0dip</item>
+        <item name="android:layout_marginBottom">1.0dip</item>
+ 
+        <item name="android:button">@null</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="main_tab_bottom">
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:background">@drawable/bottom_select_bg</item>
+        <!-- <item name="android:paddingTop">@dimen/bottom_tab_padding_up</item> -->
+        <item name="android:layout_marginRight">2.0dip</item>
+        <item name="android:layout_marginLeft">2.0dip</item>
+        <item name="android:layout_marginTop">1.0dip</item>
+        <item name="android:layout_marginBottom">1.0dip</item>
+
+        <!-- <item name="android:layout_width">20dip</item> -->
+        <!-- <item name="android:layout_height">20dip</item> -->
+        <item name="android:button">@null</item>
+        <item name="android:singleLine">true</item>
+        <!-- <item name="android:drawablePadding">@dimen/bottom_tab_padding_drawable</item> -->
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="notitle">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>

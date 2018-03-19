@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="E:\androidStudio\project\ZZ\app\src\main\res"/><source path="E:\androidStudio\project\ZZ\app\build\generated\res\rs\debug"/><source path="E:\androidStudio\project\ZZ\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="E:\androidStudio\project\ZZ\app\src\main\res"><file name="alert_dialog_icon" path="E:\androidStudio\project\ZZ\app\src\main\res\drawable\alert_dialog_icon.png" qualifiers="" type="drawable"/><file name="icon_menu_about" path="E:\androidStudio\project\ZZ\app\src\main\res\drawable\icon_menu_about.png" qualifiers="" type="drawable"/><file name="icon_menu_home" path="E:\androidStudio\project\ZZ\app\src\main\res\drawable\icon_menu_home.png" qualifiers="" type="drawable"/><file name="line" path="E:\androidStudio\project\ZZ\app\src\main\res\drawable\line.xml" qualifiers="" type="drawable"/><file name="logo_tcm_medicine" path="E:\androidStudio\project\ZZ\app\src\main\res\drawable\logo_tcm_medicine.png" qualifiers="" type="drawable"/><file name="logo_tcm_rx" path="E:\androidStudio\project\ZZ\app\src\main\res\drawable\logo_tcm_rx.gif" qualifiers="" type="drawable"/><file name="scrollbar_vertical_thumb" path="E:\androidStudio\project\ZZ\app\src\main\res\drawable\scrollbar_vertical_thumb.xml" qualifiers="" type="drawable"/><file name="scrollbar_vertical_track" path="E:\androidStudio\project\ZZ\app\src\main\res\drawable\scrollbar_vertical_track.xml" qualifiers="" type="drawable"/><file name="zz_icon" path="E:\androidStudio\project\ZZ\app\src\main\res\drawable\zz_icon.jpeg" qualifiers="" type="drawable"/><file name="medicine_detail" path="E:\androidStudio\project\ZZ\app\src\main\res\layout\medicine_detail.xml" qualifiers="" type="layout"/><file name="medicine_query" path="E:\androidStudio\project\ZZ\app\src\main\res\layout\medicine_query.xml" qualifiers="" type="layout"/><file name="rx_recipe_detail" path="E:\androidStudio\project\ZZ\app\src\main\res\layout\rx_recipe_detail.xml" qualifiers="" type="layout"/><file name="rx_recipe_detail_edit" path="E:\androidStudio\project\ZZ\app\src\main\res\layout\rx_recipe_detail_edit.xml" qualifiers="" type="layout"/><file name="welcome" path="E:\androidStudio\project\ZZ\app\src\main\res\layout\welcome.xml" qualifiers="" type="layout"/><file name="home" path="E:\androidStudio\project\ZZ\app\src\main\res\menu\home.xml" qualifiers="" type="menu"/><file name="medicine" path="E:\androidStudio\project\ZZ\app\src\main\res\menu\medicine.xml" qualifiers="" type="menu"/><file name="prescription" path="E:\androidStudio\project\ZZ\app\src\main\res\menu\prescription.xml" qualifiers="" type="menu"/><file name="db_clean" path="E:\androidStudio\project\ZZ\app\src\main\res\raw\db_clean.sql" qualifiers="" type="raw"/><file name="db_create" path="E:\androidStudio\project\ZZ\app\src\main\res\raw\db_create.sql" qualifiers="" type="raw"/><file name="db_create_v2" path="E:\androidStudio\project\ZZ\app\src\main\res\raw\db_create_v2.sql" qualifiers="" type="raw"/><file name="db_create_v3" path="E:\androidStudio\project\ZZ\app\src\main\res\raw\db_create_v3.sql" qualifiers="" type="raw"/><file name="db_init" path="E:\androidStudio\project\ZZ\app\src\main\res\raw\db_init.sql" qualifiers="" type="raw"/><file name="db_upgrade" path="E:\androidStudio\project\ZZ\app\src\main\res\raw\db_upgrade.sql" qualifiers="" type="raw"/><file name="zz_data" path="E:\androidStudio\project\ZZ\app\src\main\res\raw\zz_data.xls" qualifiers="" type="raw"/><file name="zz_data_medicine" path="E:\androidStudio\project\ZZ\app\src\main\res\raw\zz_data_medicine.sql" qualifiers="" type="raw"/><file name="zz_data_recipe" path="E:\androidStudio\project\ZZ\app\src\main\res\raw\zz_data_recipe.sql" qualifiers="" type="raw"/><file name="zz_data_recipe_medicine_map" path="E:\androidStudio\project\ZZ\app\src\main\res\raw\zz_data_recipe_medicine_map.sql" qualifiers="" type="raw"/><file name="zz_data_subject" path="E:\androidStudio\project\ZZ\app\src\main\res\raw\zz_data_subject.sql" qualifiers="" type="raw"/><file path="E:\androidStudio\project\ZZ\app\src\main\res\values\sql.xml" qualifiers=""><string name="SQL_LOAD_RX_RECIPE_FOR_AC"><![CDATA[
+select PK_ID, NAME, ALIAS, KEY_CODES 
+  from RX_RECIPE 
+ order by NAME COLLATE LOCALIZED, 
+           KEY_CODES 
+  ]]></string><string name="SQL_LOAD_RX_RECIPE_FOR_AC_BY_SYNDROME"><![CDATA[
+select PK_ID, NAME, ALIAS, KEY_CODES 
+  from RX_RECIPE 
+ where SYNDROME_ID = ? 
+    or SYNDROME_ID in (select PK_ID from SYNDROME_SUBJECT where PARENT_ID = ?)
+ order by NAME COLLATE LOCALIZED, 
+           KEY_CODES 
+  ]]></string><string name="SQL_LOAD_MEDICINE_FOR_AC"><![CDATA[
+select PK_ID, NAME, ALIAS, KEY_CODES 
+  from MEDICINE 
+ order by NAME COLLATE LOCALIZED, 
+          KEY_CODES 
+  ]]></string><string name="SQL_LOAD_MEDICINE_FOR_AC_BY_SYNDROME"><![CDATA[
+select PK_ID, NAME, ALIAS, KEY_CODES 
+  from MEDICINE 
+ where SYNDROME_ID = ? 
+    or SYNDROME_ID in (select PK_ID from SYNDROME_SUBJECT where PARENT_ID = ?)
+ order by NAME COLLATE LOCALIZED, 
+          KEY_CODES 
+  ]]></string><string name="SQL_LOAD_SYNDROME_FOR_AC"><![CDATA[
+select PK_ID, NAME, null, null 
+  from SYNDROME_SUBJECT 
+ order by PK_ID 
+  ]]></string><string name="SQL_QUERY_RX_RECIPE_BY_ID"><![CDATA[
+select NAME, KEY_CODES, DESCRIPTION, ALIAS, BASE_ID 
+  from RX_RECIPE 
+ where PK_ID = ? 
+  ]]></string><string name="SQL_QUERY_MEDICINE_BY_ID"><![CDATA[
+select NAME, ALIAS, KEY_CODES, UNIT, POISON, SYNDROME_ID, PROPERTY, EFFICACY, INDICATION, SYNERGIST, DESCRIPTION 
+  from MEDICINE 
+ where PK_ID = ? 
+  ]]></string><string name="SQL_LOAD_RX_MEDICINES_BY_ID"><![CDATA[
+select M.PK_ID, M.NAME, MAP.QUANTITY, M.UNIT, MAP.IS_OPTIONAL 
+  from MEDICINE M, MAP_RX_RECIPE_MEDICINE MAP
+ where M.PK_ID = MAP.MEDICINE_ID
+   and MAP.RX_RECIPE_ID = ?
+ order by MAP.ORDER_NUM 
+  ]]></string></file><file path="E:\androidStudio\project\ZZ\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">杏林书童(ZZ)</string><string name="menu_item_home">首页</string><string name="menu_item_prescription">方剂</string><string name="menu_item_medicine">药物</string><string name="menu_item_patient">病患</string><string name="menu_item_statitics">统计</string><string name="menu_item_about">关于</string><string name="rxFormula_query_title">方剂查询</string><string name="rxFormula_formula_label">方剂名称：</string><string name="rxFromula_selection_reminder">请选择方剂</string><string name="rxFormula_detail_title">方剂细节</string><string name="rxFormula_detail_tab_title_name">药物</string><string name="rxFormula_detail_tab_title_quantity">药量</string><string name="rxFormula_detail_tab_title_optional">可+-否? </string><string name="rxFormula_customize">加减／新增验方</string><string name="rxFormula_detail_edit_title">方剂加减／新增验方</string><string name="rxFormula_detail_edit_name_title">方名: </string><string name="rxFormula_detail_edit_alias_title">别名: </string><string name="rxFormula_detail_edit_key_code_title">代码: </string><string name="rxFormula_detail_edit_unit_hint">注: 药量单位 - 克 或 毫升 或 枚  或  份</string><string name="rxFormula_detail_edit_save_confirm_update">确定保存对该方剂的加减修改?</string><string name="rxFormula_detail_edit_save_confirm_insert">确定保存新增验方?</string><string name="medicine_query_title">药物查询</string><string name="medicine_label">药物名称：</string><string name="medicine_selection_reminder">请选择药物</string><string name="medicine_detail_title">药物细节</string><string name="syndrome_subject_label">辩证类别：</string><string name="syndrome_subject_prompt">请选择辩证类别：</string><string name="name_code_hint">(中文名称, 或拼音首字母..)</string><string name="key_code_hint">(拼音首字母..)</string><string name="button_query">查询清单</string><string name="button_save">保存</string><string name="button_cancel">取消</string><string name="button_edit">编辑修改</string><string name="alert_dialog_confirm_title">请确认!</string><string name="alert_dialog_ok">确定</string><string name="alert_dialog_cancel">不确定</string><string name="efan_support">支持：问一凡知否? \nhttp://code.google.com/p/zz-doctor/issues/entry</string><string name="efan_logo">一凡风顺软件工作室 efansoftware@gmail.com</string><string name="efan_copy_left">EFANSOFTWARE (2008~2010)</string></file><file path="E:\androidStudio\project\ZZ\app\src\main\res\values\styles.xml" qualifiers=""><dimen name="default_text_size">18sp</dimen><style name="titleText">
+    <item name="android:textStyle">bold</item>
+    <item name="android:textSize">18sp</item>
+    <item name="android:textColor">#C53A3A</item>   
+  </style><style name="labelText">
+    <item name="android:textStyle">bold</item>
+    <item name="android:textSize">20sp</item>
+    <item name="android:textColor">#FF8040</item>   
+  </style><color name="hintTextColor">#C0C0C0</color><color name="tabLineColor">#808080</color><color name="tabHeadColor">#008000</color></file></source><source path="E:\androidStudio\project\ZZ\app\build\generated\res\rs\debug"/><source path="E:\androidStudio\project\ZZ\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="E:\androidStudio\project\ZZ\app\src\debug\res"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="E:\androidStudio\project\ZZ\app\src\debug\res"/></dataSet><mergedItems/></merger>

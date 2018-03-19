@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<LinearLayout xmlns:Android="http://schemas.android.com/apk/res/android"  
+    Android:orientation="horizontal"  
+    Android:layout_width="fill_parent"  
+    Android:layout_height="fill_parent">  
+    <TextView  
+        Android:id="@+id/list_item_text"  
+        Android:layout_width="wrap_content"  
+        Android:layout_height="wrap_content" 
+        Android:textSize="20dip" 
+        Android:textColor="#6C6C6C"
+        Android:layout_marginLeft="22dip"
+      />  
+    <TextView Android:id="@+id/deltxt"
+        Android:layout_width="40dip"
+        Android:layout_height="wrap_content"
+        Android:layout_marginLeft="42dip"
+        Android:text="X"
+        Android:textColor="#6C6C6C"
+       />    
+</LinearLayout>  

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.cnblogs.android"
+    android:versionCode="3"
+    android:versionName="1.1.1" >
+
+    <uses-sdk
+        android:minSdkVersion="18"
+        android:targetSdkVersion="25" />
+
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <application
+        android:debuggable="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:testOnly="true"
+        android:theme="@android:style/Theme.NoTitleBar" >
+        <activity
+            android:name="com.cnblogs.android.SplashActivity"
+            android:configChanges="keyboardHidden"
+            android:label="@string/app_name"
+            android:windowAnimationStyle="@android:style/Animation.Translucent" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!-- 关注微博信息 -->
+        <activity
+            android:name="com.cnblogs.android.AboutActivity"
+            android:configChanges="keyboardHidden"
+            android:launchMode="singleInstance"
+            android:windowAnimationStyle="@android:style/Animation.Translucent" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="AboutActivity"
+                    android:scheme="myapp" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.cnblogs.android.BlogActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:theme="@style/ContentOverlay" />
+        <activity
+            android:name="com.cnblogs.android.RssListActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:theme="@style/ContentOverlay" />
+        <activity
+            android:name="com.cnblogs.android.RssCateActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:theme="@style/ContentOverlay" />
+        <activity
+            android:name="com.cnblogs.android.MyRssActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:theme="@style/ContentOverlay" />
+        <activity
+            android:name="com.cnblogs.android.RssItemsActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:theme="@style/ContentOverlay" />
+        <activity
+            android:name="com.cnblogs.android.RssDetailActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:windowAnimationStyle="@android:style/Animation.Translucent" />
+        <activity
+            android:name="com.cnblogs.android.AuthorBlogActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:theme="@style/ContentOverlay" />
+        <activity
+            android:name="com.cnblogs.android.NewsActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:theme="@style/ContentOverlay" />
+        <activity
+            android:name="com.cnblogs.android.SettingActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:theme="@style/ContentOverlay" />
+        <activity
+            android:name="com.cnblogs.android.BlogDetailActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:windowAnimationStyle="@android:style/Animation.Translucent" />
+        <activity
+            android:name="com.cnblogs.android.NewsDetailActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:windowAnimationStyle="@android:style/Animation.Translucent" />
+        <activity
+            android:name="com.cnblogs.android.CommentActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:theme="@style/ContentOverlay" />
+        <activity
+            android:name="com.cnblogs.android.MoreActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:theme="@style/ContentOverlay" />
+        <activity
+            android:name="com.cnblogs.android.MainActivity"
+            android:alwaysRetainTaskState="true"
+            android:clearTaskOnLaunch="true"
+            android:configChanges="orientation|keyboardHidden"
+            android:launchMode="singleTask"
+            android:theme="@style/ContentOverlay"
+            android:windowSoftInputMode="stateHidden|adjustPan" />
+        <activity
+            android:name="com.cnblogs.android.SearchActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:theme="@style/ContentOverlay" />
+        <activity
+            android:name="com.cnblogs.android.WebActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:theme="@style/ContentOverlay" />
+        <activity
+            android:name="com.cnblogs.android.RssCateActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:theme="@style/ContentOverlay" />
+        <activity
+            android:name="com.cnblogs.android.OrderActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:theme="@style/ContentOverlay" />
+        <activity
+            android:name="com.cnblogs.android.BlogTopViewDiggActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:theme="@style/ContentOverlay" />
+        <activity
+            android:name="com.cnblogs.android.AuthorOrderActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:theme="@style/ContentOverlay" />
+        <activity
+            android:name="com.cnblogs.android.NewsRecommendActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:theme="@style/ContentOverlay" />
+        <activity
+            android:name="com.cnblogs.android.MyFavActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:theme="@style/ContentOverlay" />
+
+        <service
+            android:name="com.cnblogs.android.services.UpdateService"
+            android:enabled="true" />
+        <service
+            android:name="com.cnblogs.android.services.DownloadServices"
+            android:enabled="true" />
+        <!-- 友盟 -->
+        <meta-data
+            android:name="UMENG_APPKEY"
+            android:value="4ed2451352701528ee000034" />
+        <meta-data
+            android:name="UMENG_CHANNEL"
+            android:value="android_market" />
+        <!-- add feedback Activity -->
+        <activity
+            android:name="com.feedback.ui.SendFeedback"
+            android:windowSoftInputMode="adjustResize" />
+        <activity android:name="com.feedback.ui.FeedbackConversations" />
+        <activity
+            android:name="com.feedback.ui.FeedbackConversation"
+            android:configChanges="keyboard" />
+
+        <service
+            android:name="com.exchange.Public.DownloadingService"
+            android:exported="true"
+            android:process=":DownloadingService" />
+        <!-- 多盟 -->
+        <meta-data
+            android:name="DOMOB_PID"
+            android:value="56OJyBYYuML8sTo/lf" />
+
+        <activity
+            android:name="cn.domob.android.ads.DomobActivity"
+            android:theme="@android:style/Theme.Translucent" />
+    </application>
+
+</manifest>

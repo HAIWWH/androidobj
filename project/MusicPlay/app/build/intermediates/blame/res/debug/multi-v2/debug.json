@@ -1,0 +1,64 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\androidStudio\\project\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\androidStudio\\project\\MusicPlay\\app\\src\\main\\res\\values\\color.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "1",
+                        "startOffsets": "52",
+                        "endColumns": "46",
+                        "endOffsets": "97"
+                    },
+                    "to": {
+                        "startLines": "8",
+                        "startColumns": "4",
+                        "startOffsets": "212",
+                        "endColumns": "49",
+                        "endOffsets": "257"
+                    }
+                },
+                {
+                    "source": "E:\\androidStudio\\project\\MusicPlay\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "11,9,2,4",
+                        "startColumns": "2,2,4,4",
+                        "startOffsets": "235,181,55,103",
+                        "endLines": "25,9,2,4",
+                        "endColumns": "11,50,42,59",
+                        "endOffsets": "624,229,93,158"
+                    },
+                    "to": {
+                        "startLines": "9,24,25,26",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "262,656,709,752",
+                        "endLines": "23,24,25,26",
+                        "endColumns": "11,52,42,59",
+                        "endOffsets": "651,704,747,807"
+                    }
+                },
+                {
+                    "source": "E:\\androidStudio\\project\\MusicPlay\\app\\src\\main\\res\\values\\attr.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "1",
+                        "startOffsets": "53",
+                        "endLines": "8",
+                        "endColumns": "16",
+                        "endOffsets": "207"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "7",
+                        "endColumns": "16",
+                        "endOffsets": "207"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical" >
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dip"
+        android:background="@drawable/top_bar_bg"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingRight="2dip" >
+
+        <TextView
+            android:id="@+id/tv_back_btn"
+            android:layout_width="60dip"
+            android:layout_height="30dip"
+            android:layout_gravity="center_vertical"
+            android:background="@drawable/top_bar_left_bg"
+            android:gravity="center_vertical"
+            android:paddingLeft="20dip"
+            android:text="返回"
+            android:textColor="#FFFFFF"
+            android:textSize="24px" >
+        </TextView>
+
+        <TextView
+            android:layout_width="80dip"
+            android:layout_height="40dip"
+            android:layout_gravity="center_vertical|center"
+            android:layout_weight="0.43"
+            android:gravity="center"
+            android:text="登陆"
+            android:textColor="#000000"
+            android:textSize="28px" >
+        </TextView>
+    </FrameLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dip"
+        android:layout_marginLeft="10dip"
+        android:layout_marginRight="10dip"
+        android:layout_marginTop="5dip"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="40dip"
+            android:layout_marginLeft="30dip"
+            android:gravity="center_vertical"
+            android:text="加入我们吧,发现时尚,分享购物的乐趣！"
+            android:textColor="#00EE00" />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dip"
+        android:layout_marginLeft="10dip"
+        android:layout_marginRight="10dip"
+        android:layout_marginTop="10dip"
+        android:paddingTop="1dip"
+        android:paddingBottom="1dip"
+        android:background="@drawable/comment_input"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="80dip"
+            android:layout_height="35dp"
+            android:layout_marginLeft="5dip" 
+            android:gravity="center_vertical|right"
+            android:text="电子邮箱:"
+            android:textColor="#000000"
+            
+            android:textSize="24px" />
+         <EditText
+            android:id="@+id/editText1"
+            android:layout_width="match_parent"
+ 			android:layout_height="40dip"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="10dip"
+            
+            android:layout_weight="0.46"
+            android:background="#FFFFFF"
+            android:gravity="center_vertical" >
+
+            <requestFocus />
+        </EditText>
+        
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dip"
+        android:layout_marginLeft="10dip"
+        android:layout_marginRight="10dip"
+        android:layout_marginTop="10dip"
+         android:paddingTop="1dip"
+        android:paddingBottom="1dip"
+        android:background="@drawable/comment_input"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="80dip"
+            android:layout_height="40dip"
+            android:layout_marginLeft="5dip"
+             android:gravity="center_vertical|right"
+            android:text="密码:"
+            android:textColor="#000000"
+            android:textSize="24px" />
+
+        <EditText
+            android:id="@+id/editText1"
+            android:layout_width="match_parent"
+            android:layout_height="40dip"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="10dip"
+            android:layout_weight="0.46"
+            android:background="#FFFFFF"
+            android:gravity="center_vertical"
+            android:inputType="textPassword" >
+
+            <requestFocus />
+        </EditText>
+    </LinearLayout>
+
+	
+                
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dip"
+        android:layout_marginLeft="10dip"
+        android:layout_marginRight="10dip"
+        android:layout_marginTop="10dip"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="40dip"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="30dip"
+           	android:layout_marginRight="30dip"
+            android:gravity="center_vertical|center"
+            android:background="@drawable/publish_cam_bg_selector"
+            android:text="登陆"
+            android:textColor="#FFFFFF" />
+    </LinearLayout>
+
+        <TextView
+		android:layout_width="wrap_content"
+		android:layout_height="40dip"
+		android:layout_gravity="center_vertical|left"
+		android:layout_marginLeft="30dip"
+		android:layout_marginRight="30dip"
+		android:gravity="center_vertical|center" 
+		android:text="你也可以选择一下方式登录："
+		android:textColor="#999999"
+		 />
+        
+         <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dip"
+        android:layout_marginLeft="10dip"
+        android:layout_marginRight="10dip"
+        android:layout_marginTop="2dip"
+         android:paddingTop="1dip"
+        android:paddingBottom="1dip"
+        android:background="@drawable/comment_input"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+			<TextView
+            android:layout_width="20dip"
+            android:layout_height="20dip"
+            android:layout_marginLeft="10dip"
+            android:background="@drawable/logo_sinax16"
+             android:gravity="center_vertical|right"
+            android:text=""
+            android:textColor="#000000"
+            android:textSize="24px" />
+
+        <TextView
+            android:layout_width="80dip"
+            android:layout_height="40dip"
+            android:layout_marginLeft="5dip"
+            android:layout_weight="0.64"
+            android:gravity="center_vertical|left"
+            android:text="新浪账号登录"
+            android:textColor="#000000"
+            android:textSize="24px" />
+             <ImageView
+                android:id="@+id/goto_img"
+                android:layout_width="40dip"
+                android:layout_height="10dip"
+                android:layout_gravity="center_vertical"
+                android:layout_marginRight="20dip"
+                android:gravity="center_vertical"
+                android:src="@drawable/home_index_arrow" />
+    </LinearLayout>
+    
+             <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dip"
+        android:layout_marginLeft="10dip"
+        android:layout_marginRight="10dip"
+        android:layout_marginTop="10dip"
+         android:paddingTop="1dip"
+        android:paddingBottom="1dip"
+        android:background="@drawable/comment_input"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+			<TextView
+            android:layout_width="20dip"
+            android:layout_height="20dip"
+            android:layout_marginLeft="10dip"
+            android:background="@drawable/logo_taobaox15"
+             android:gravity="center_vertical|right"
+            android:text=""
+            android:textColor="#000000"
+            android:textSize="24px" />
+
+        <TextView
+            android:layout_width="80dip"
+            android:layout_height="40dip"
+            android:layout_marginLeft="5dip"
+            android:layout_weight="0.64"
+            android:gravity="center_vertical|left"
+            android:text="淘宝账号登录"
+            android:textColor="#000000"
+            android:textSize="24px" />
+         <ImageView
+            android:id="@+id/goto_img"
+            android:layout_width="40dip"
+            android:layout_height="10dip"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="20dip"
+            android:gravity="center_vertical"
+            android:src="@drawable/home_index_arrow" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dip"
+        android:layout_marginLeft="10dip"
+        android:layout_marginRight="10dip"
+        android:layout_marginTop="10dip"
+         android:paddingTop="1dip"
+        android:paddingBottom="1dip"
+        android:background="@drawable/comment_input"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+			<TextView
+            android:layout_width="20dip"
+            android:layout_height="20dip"
+            android:layout_marginLeft="10dip"
+            android:background="@drawable/logo_qqx16"
+             android:gravity="center_vertical|right"
+            android:text=""
+            android:textColor="#000000"
+            android:textSize="24px" />
+
+        <TextView
+            android:layout_width="80dip"
+            android:layout_height="40dip"
+            android:layout_marginLeft="5dip"
+            android:layout_weight="0.64"
+            android:gravity="center_vertical|left"
+            android:text="QQ账号登录"
+            android:textColor="#000000"
+            android:textSize="24px" />
+             <ImageView
+                android:id="@+id/goto_img"
+                android:layout_width="40dip"
+                android:layout_height="10dip"
+                android:layout_gravity="center_vertical"
+                android:layout_marginRight="20dip"
+                android:gravity="center_vertical"
+                android:src="@drawable/home_index_arrow" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dip"
+        android:layout_marginLeft="10dip"
+        android:layout_marginRight="10dip"
+        android:layout_marginTop="10dip"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="40dip"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="30dip"
+            android:gravity="center_vertical"
+            android:text="@string/website"
+            android:textColor="#000000" />
+    </LinearLayout>
+
+</LinearLayout>

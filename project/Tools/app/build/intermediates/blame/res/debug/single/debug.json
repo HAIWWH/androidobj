@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "E:\\androidStudio\\project\\Tools\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "E:\\androidStudio\\project\\Tools\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Tools\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out.xml.flat",
+        "source": "E:\\androidStudio\\project\\Tools\\app\\src\\main\\res\\anim\\slide_out.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Tools\\app\\build\\intermediates\\res\\merged\\debug\\layout_query_add.xml.flat",
+        "source": "E:\\androidStudio\\project\\Tools\\app\\src\\main\\res\\layout\\query_add.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Tools\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_divider.png.flat",
+        "source": "E:\\androidStudio\\project\\Tools\\app\\src\\main\\res\\drawable-mdpi\\divider.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Tools\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_number_finance.png.flat",
+        "source": "E:\\androidStudio\\project\\Tools\\app\\src\\main\\res\\drawable-hdpi\\number_finance.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Tools\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_title_home_selected.png.flat",
+        "source": "E:\\androidStudio\\project\\Tools\\app\\src\\main\\res\\drawable-hdpi\\title_home_selected.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Tools\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_update.png.flat",
+        "source": "E:\\androidStudio\\project\\Tools\\app\\src\\main\\res\\drawable-hdpi\\menu_update.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Tools\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in.xml.flat",
+        "source": "E:\\androidStudio\\project\\Tools\\app\\src\\main\\res\\anim\\slide_in.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Tools\\app\\build\\intermediates\\res\\merged\\debug\\layout_titlebar.xml.flat",
+        "source": "E:\\androidStudio\\project\\Tools\\app\\src\\main\\res\\layout\\titlebar.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Tools\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_number_life.png.flat",
+        "source": "E:\\androidStudio\\project\\Tools\\app\\src\\main\\res\\drawable-hdpi\\number_life.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Tools\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_title_home_selected.png.flat",
+        "source": "E:\\androidStudio\\project\\Tools\\app\\src\\main\\res\\drawable-mdpi\\title_home_selected.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Tools\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_number_airline.png.flat",
+        "source": "E:\\androidStudio\\project\\Tools\\app\\src\\main\\res\\drawable-hdpi\\number_airline.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Tools\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_number_ticket.png.flat",
+        "source": "E:\\androidStudio\\project\\Tools\\app\\src\\main\\res\\drawable-hdpi\\number_ticket.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Tools\\app\\build\\intermediates\\res\\merged\\debug\\drawable_title_home.xml.flat",
+        "source": "E:\\androidStudio\\project\\Tools\\app\\src\\main\\res\\drawable\\title_home.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Tools\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_number_operator.png.flat",
+        "source": "E:\\androidStudio\\project\\Tools\\app\\src\\main\\res\\drawable-hdpi\\number_operator.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Tools\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "E:\\androidStudio\\project\\Tools\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Tools\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "E:\\androidStudio\\project\\Tools\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Tools\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_title_home_normal.png.flat",
+        "source": "E:\\androidStudio\\project\\Tools\\app\\src\\main\\res\\drawable-hdpi\\title_home_normal.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Tools\\app\\build\\intermediates\\res\\merged\\debug\\layout_about.xml.flat",
+        "source": "E:\\androidStudio\\project\\Tools\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Tools\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_title_back_selected.png.flat",
+        "source": "E:\\androidStudio\\project\\Tools\\app\\src\\main\\res\\drawable-hdpi\\title_back_selected.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Tools\\app\\build\\intermediates\\res\\merged\\debug\\layout_number_space_item.xml.flat",
+        "source": "E:\\androidStudio\\project\\Tools\\app\\src\\main\\res\\layout\\number_space_item.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Tools\\app\\build\\intermediates\\res\\merged\\debug\\layout_query_phone.xml.flat",
+        "source": "E:\\androidStudio\\project\\Tools\\app\\src\\main\\res\\layout\\query_phone.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Tools\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_divider.png.flat",
+        "source": "E:\\androidStudio\\project\\Tools\\app\\src\\main\\res\\drawable-ldpi\\divider.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Tools\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_title_back_normal.png.flat",
+        "source": "E:\\androidStudio\\project\\Tools\\app\\src\\main\\res\\drawable-mdpi\\title_back_normal.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Tools\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_titlebar_bg_nor.png.flat",
+        "source": "E:\\androidStudio\\project\\Tools\\app\\src\\main\\res\\drawable-hdpi\\titlebar_bg_nor.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Tools\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "E:\\androidStudio\\project\\Tools\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Tools\\app\\build\\intermediates\\res\\merged\\debug\\drawable_title_back.xml.flat",
+        "source": "E:\\androidStudio\\project\\Tools\\app\\src\\main\\res\\drawable\\title_back.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Tools\\app\\build\\intermediates\\res\\merged\\debug\\layout_query_idcard.xml.flat",
+        "source": "E:\\androidStudio\\project\\Tools\\app\\src\\main\\res\\layout\\query_idcard.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Tools\\app\\build\\intermediates\\res\\merged\\debug\\layout_splash.xml.flat",
+        "source": "E:\\androidStudio\\project\\Tools\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Tools\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_title_home_normal.png.flat",
+        "source": "E:\\androidStudio\\project\\Tools\\app\\src\\main\\res\\drawable-mdpi\\title_home_normal.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Tools\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_help.png.flat",
+        "source": "E:\\androidStudio\\project\\Tools\\app\\src\\main\\res\\drawable-hdpi\\menu_help.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Tools\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_title_back_normal.png.flat",
+        "source": "E:\\androidStudio\\project\\Tools\\app\\src\\main\\res\\drawable-hdpi\\title_back_normal.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Tools\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_number_query.png.flat",
+        "source": "E:\\androidStudio\\project\\Tools\\app\\src\\main\\res\\drawable-hdpi\\number_query.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Tools\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_title_back_selected.png.flat",
+        "source": "E:\\androidStudio\\project\\Tools\\app\\src\\main\\res\\drawable-mdpi\\title_back_selected.png"
+    }
+]

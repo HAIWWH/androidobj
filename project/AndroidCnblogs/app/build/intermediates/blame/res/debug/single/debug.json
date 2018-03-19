@@ -1,0 +1,550 @@
+[
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\layout_search_layout.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\layout\\search_layout.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_progressbar_moreloading.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable\\progressbar_moreloading.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_search.9.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-hdpi\\bg_search.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\layout_about_layout.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\layout\\about_layout.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\layout_rsslist_list_item.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\layout\\rsslist_list_item.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\layout_comment_layout.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\layout\\comment_layout.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_rotate.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_rotate.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\xml_preference.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\xml\\preference.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_btn_bg_d.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-hdpi\\home_btn_bg_d.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\layout_recommend_layout.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\layout\\recommend_layout.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\layout-320x240_about_layout.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\layout-320x240\\about_layout.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_allfriends.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_allfriends.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\layout_more_layout.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\layout\\more_layout.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_btn_bg_s.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-hdpi\\home_btn_bg_s.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\layout_rss_list_layout.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\layout\\rss_list_layout.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_4_n.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-hdpi\\icon_4_n.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_3_n.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-hdpi\\icon_3_n.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_5_n.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-hdpi\\icon_5_n.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_regular.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-hdpi\\regular.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_rss.9.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-hdpi\\btn_rss.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\menu_blog_list_contextmenu.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\menu\\blog_list_contextmenu.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_clear_cache.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\layout\\dialog_clear_cache.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_1_n.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-hdpi\\icon_1_n.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_2_n.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-hdpi\\icon_2_n.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_progressbar_drawable.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable\\progressbar_drawable.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\layout_pull_to_refresh_header.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\layout\\pull_to_refresh_header.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_refresh_click.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-hdpi\\refresh_click.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_add_normal.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable\\btn_add_normal.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\layout_web_layout.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\layout\\web_layout.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_refresh.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-hdpi\\refresh.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_offline_download.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\layout\\dialog_offline_download.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_comment.9.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-hdpi\\comment.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\layout_news_detail.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\layout\\news_detail.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ico_search_click.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-hdpi\\ico_search_click.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_about_layout.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\layout-land\\about_layout.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_stylesheet.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-hdpi\\stylesheet.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\menu_news_detail_menu.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\menu\\news_detail_menu.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_drawable_btn_rss.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable\\drawable_btn_rss.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\layout_order_list_item.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\layout\\order_list_item.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_drawable_btn_back.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable\\drawable_btn_back.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\layout_rsscate_list_item.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\layout\\rsscate_list_item.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toolbar_text_color.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable\\toolbar_text_color.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_4_n.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-mdpi\\icon_4_n.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\layout_blog_detail.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\layout\\blog_detail.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_5_n.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-mdpi\\icon_5_n.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_list_pressed.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable\\btn_list_pressed.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_download.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-hdpi\\download.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_star.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_star.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_8_n.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-hdpi\\icon_8_n.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_back_hover.9.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-hdpi\\btn_back_hover.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_weibo.9.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-hdpi\\btn_weibo.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_7_n.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-hdpi\\icon_7_n.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_add_rss.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\layout\\dialog_add_rss.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_8_n.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-mdpi\\icon_8_n.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_6_n.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-mdpi\\icon_6_n.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_rssed.9.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-hdpi\\btn_rssed.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_6_n.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-hdpi\\icon_6_n.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_myspace.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-hdpi\\myspace.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_7_n.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-mdpi\\icon_7_n.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\layout_top_header.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\layout\\top_header.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_btn_bg_n.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-hdpi\\home_btn_bg_n.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\layout_search_list_item.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\layout\\search_list_item.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\layout_more_list_item.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\layout\\more_list_item.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ember.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-hdpi\\ember.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\layout-land-480x320_about_layout.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\layout-land-480x320\\about_layout.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_back.9.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-hdpi\\btn_back.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gofor.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-hdpi\\gofor.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_banner.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-hdpi\\bg_banner.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_splash.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-hdpi\\splash.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_3_n.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-mdpi\\icon_3_n.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_home_btn_bg_n.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-mdpi\\home_btn_bg_n.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\layout_listview_footer.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\layout\\listview_footer.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_2_n.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-mdpi\\icon_2_n.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_1_n.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-mdpi\\icon_1_n.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_drawable_btn_comment.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable\\drawable_btn_comment.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\layout_rss_cate_layout.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\layout\\rss_cate_layout.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\layout_rss_items_layout.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\layout\\rss_items_layout.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\layout_offline_download_notification.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\layout\\offline_download_notification.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-hdpi_splash.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-land-hdpi\\splash.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_spinner_white_48.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-hdpi\\spinner_white_48.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\layout_blog_list_item.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\layout\\blog_list_item.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_drawable_btn_list_selector.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable\\drawable_btn_list_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_line.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-hdpi\\line.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\layout_author_order_recommend_news_layout.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\layout\\author_order_recommend_news_layout.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\layout_comment_list_item.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\layout\\comment_list_item.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_geotag.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-hdpi\\geotag.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_maintab_toolbar_bg.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-hdpi\\maintab_toolbar_bg.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\layout_blog_top_view_digg_layout.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\layout\\blog_top_view_digg_layout.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ico_search.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-hdpi\\ico_search.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\layout_rss_detail.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\layout\\rss_detail.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_list_normal.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable\\btn_list_normal.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\layout-land-320x240_about_layout.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\layout-land-320x240\\about_layout.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\layout-480x320_about_layout.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\layout-480x320\\about_layout.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_pulltorefresh_arrow.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-hdpi\\ic_pulltorefresh_arrow.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_more_loading.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-hdpi\\more_loading.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_drawable_btn_refresh.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable\\drawable_btn_refresh.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\menu_my_fav_contextmenu.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\menu\\my_fav_contextmenu.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sample_face.gif.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-hdpi\\sample_face.gif"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home_btn_bg.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable\\home_btn_bg.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_start_conversation.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_start_conversation.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\layout\\notification.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_loading.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-hdpi\\loading.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_rss.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-hdpi\\icon_rss.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_weibo_hover.9.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-hdpi\\btn_weibo_hover.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\layout_splash.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_drawable_btn_add_selector.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable\\drawable_btn_add_selector.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_jquery.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-hdpi\\jquery.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\layout_order_layout.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\layout\\order_layout.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\menu_my_rss_contextmenu.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\menu\\my_rss_contextmenu.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\menu_main_tab_menu.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\menu\\main_tab_menu.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_home_btn_bg_s.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-mdpi\\home_btn_bg_s.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\layout_news_layout.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\layout\\news_layout.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_head.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-hdpi\\head.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_rss_hover.9.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-hdpi\\btn_rss_hover.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\layout_blog_layout.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\layout\\blog_layout.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_digg_this.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-hdpi\\digg_this.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_home_btn_bg_d.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-mdpi\\home_btn_bg_d.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_maintab_toolbar_bg.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-mdpi\\maintab_toolbar_bg.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_drawable_btn_weibo.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable\\drawable_btn_weibo.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\menu_author_blog_menu.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\menu\\author_blog_menu.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_drawable_btn_search.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable\\drawable_btn_search.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_comment_click.9.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-hdpi\\comment_click.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_set_fontsize.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\layout\\dialog_set_fontsize.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\layout_author_blog_list_item.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\layout\\author_blog_list_item.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\layout_news_list_item.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\layout\\news_list_item.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_add_pressed.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable\\btn_add_pressed.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\layout_author_blog_layout.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\layout\\author_blog_layout.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\layout_rssitems_list_item.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\layout\\rssitems_list_item.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\menu_blog_detail_menu.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\menu\\blog_detail_menu.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\layout_myfav_list_item.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\layout\\myfav_list_item.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\anim_rotate.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\anim\\rotate.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\layout_my_rss_layout.xml.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\layout\\my_rss_layout.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_downloaded.png.flat",
+        "source": "E:\\androidStudio\\project\\AndroidCnblogs\\app\\src\\main\\res\\drawable-hdpi\\downloaded.png"
+    }
+]

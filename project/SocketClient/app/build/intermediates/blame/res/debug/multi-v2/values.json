@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\androidStudio\\project\\SocketClient\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "E:\\androidStudio\\project\\SocketClient\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,5,8,4,9,2,6,7",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "121,212,349,169,389,57,251,307",
+                        "endColumns": "46,37,38,41,46,62,54,40",
+                        "endOffsets": "163,245,383,206,431,115,301,343"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,102,140,179,221,268,331,386",
+                        "endColumns": "46,37,38,41,46,62,54,40",
+                        "endOffsets": "97,135,174,216,263,326,381,422"
+                    }
+                }
+            ]
+        }
+    ]
+}

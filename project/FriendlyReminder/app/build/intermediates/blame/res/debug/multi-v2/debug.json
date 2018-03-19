@@ -1,0 +1,149 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\androidStudio\\project\\FriendlyReminder\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\androidStudio\\project\\FriendlyReminder\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "3,6,7,4,5,2",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "64,202,242,105,151,23",
+                        "endColumns": "39,38,37,44,49,39",
+                        "endOffsets": "99,236,275,145,196,58"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,95,134,172,217,267",
+                        "endColumns": "39,38,37,44,49,39",
+                        "endOffsets": "90,129,167,212,262,302"
+                    }
+                },
+                {
+                    "source": "E:\\androidStudio\\project\\FriendlyReminder\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "9,2,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "247,19,124",
+                        "endLines": "12,2,7",
+                        "endColumns": "12,68,12",
+                        "endOffsets": "434,83,239"
+                    },
+                    "to": {
+                        "startLines": "13,17,18",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "569,758,820",
+                        "endLines": "16,17,20",
+                        "endColumns": "12,61,12",
+                        "endOffsets": "753,815,933"
+                    }
+                },
+                {
+                    "source": "E:\\androidStudio\\project\\FriendlyReminder\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,3,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "101,58,155",
+                        "endColumns": "52,41,52",
+                        "endOffsets": "149,95,203"
+                    },
+                    "to": {
+                        "startLines": "10,11,12",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "421,474,516",
+                        "endColumns": "52,41,52",
+                        "endOffsets": "469,511,564"
+                    }
+                },
+                {
+                    "source": "E:\\androidStudio\\project\\FriendlyReminder\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "8,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "307,365",
+                        "endColumns": "57,55",
+                        "endOffsets": "360,416"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\androidStudio\\project\\FriendlyReminder\\app\\build\\intermediates\\res\\merged\\debug\\values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\androidStudio\\project\\FriendlyReminder\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "182",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "316"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\androidStudio\\project\\FriendlyReminder\\app\\build\\intermediates\\res\\merged\\debug\\values-sw720dp-land-v13_values-sw720dp-land-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\androidStudio\\project\\FriendlyReminder\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "205",
+                        "endColumns": "58",
+                        "endOffsets": "259"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\androidStudio\\project\\FriendlyReminder\\app\\build\\intermediates\\res\\merged\\debug\\values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\androidStudio\\project\\FriendlyReminder\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "225",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "373"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        }
+    ]
+}

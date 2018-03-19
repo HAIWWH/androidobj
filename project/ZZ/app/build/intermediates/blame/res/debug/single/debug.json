@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "E:\\androidStudio\\project\\ZZ\\app\\build\\intermediates\\res\\merged\\debug\\layout_rx_recipe_detail.xml.flat",
+        "source": "E:\\androidStudio\\project\\ZZ\\app\\src\\main\\res\\layout\\rx_recipe_detail.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\ZZ\\app\\build\\intermediates\\res\\merged\\debug\\layout_medicine_detail.xml.flat",
+        "source": "E:\\androidStudio\\project\\ZZ\\app\\src\\main\\res\\layout\\medicine_detail.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\ZZ\\app\\build\\intermediates\\res\\merged\\debug\\menu_home.xml.flat",
+        "source": "E:\\androidStudio\\project\\ZZ\\app\\src\\main\\res\\menu\\home.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\ZZ\\app\\build\\intermediates\\res\\merged\\debug\\raw_zz_data_recipe.sql.flat",
+        "source": "E:\\androidStudio\\project\\ZZ\\app\\src\\main\\res\\raw\\zz_data_recipe.sql"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\ZZ\\app\\build\\intermediates\\res\\merged\\debug\\layout_welcome.xml.flat",
+        "source": "E:\\androidStudio\\project\\ZZ\\app\\src\\main\\res\\layout\\welcome.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\ZZ\\app\\build\\intermediates\\res\\merged\\debug\\raw_db_create_v3.sql.flat",
+        "source": "E:\\androidStudio\\project\\ZZ\\app\\src\\main\\res\\raw\\db_create_v3.sql"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\ZZ\\app\\build\\intermediates\\res\\merged\\debug\\menu_medicine.xml.flat",
+        "source": "E:\\androidStudio\\project\\ZZ\\app\\src\\main\\res\\menu\\medicine.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\ZZ\\app\\build\\intermediates\\res\\merged\\debug\\raw_db_clean.sql.flat",
+        "source": "E:\\androidStudio\\project\\ZZ\\app\\src\\main\\res\\raw\\db_clean.sql"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\ZZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_tcm_medicine.png.flat",
+        "source": "E:\\androidStudio\\project\\ZZ\\app\\src\\main\\res\\drawable\\logo_tcm_medicine.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\ZZ\\app\\build\\intermediates\\res\\merged\\debug\\menu_prescription.xml.flat",
+        "source": "E:\\androidStudio\\project\\ZZ\\app\\src\\main\\res\\menu\\prescription.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\ZZ\\app\\build\\intermediates\\res\\merged\\debug\\raw_db_init.sql.flat",
+        "source": "E:\\androidStudio\\project\\ZZ\\app\\src\\main\\res\\raw\\db_init.sql"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\ZZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable_zz_icon.jpeg.flat",
+        "source": "E:\\androidStudio\\project\\ZZ\\app\\src\\main\\res\\drawable\\zz_icon.jpeg"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\ZZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scrollbar_vertical_thumb.xml.flat",
+        "source": "E:\\androidStudio\\project\\ZZ\\app\\src\\main\\res\\drawable\\scrollbar_vertical_thumb.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\ZZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_tcm_rx.gif.flat",
+        "source": "E:\\androidStudio\\project\\ZZ\\app\\src\\main\\res\\drawable\\logo_tcm_rx.gif"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\ZZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_menu_home.png.flat",
+        "source": "E:\\androidStudio\\project\\ZZ\\app\\src\\main\\res\\drawable\\icon_menu_home.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\ZZ\\app\\build\\intermediates\\res\\merged\\debug\\raw_zz_data_medicine.sql.flat",
+        "source": "E:\\androidStudio\\project\\ZZ\\app\\src\\main\\res\\raw\\zz_data_medicine.sql"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\ZZ\\app\\build\\intermediates\\res\\merged\\debug\\raw_db_create_v2.sql.flat",
+        "source": "E:\\androidStudio\\project\\ZZ\\app\\src\\main\\res\\raw\\db_create_v2.sql"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\ZZ\\app\\build\\intermediates\\res\\merged\\debug\\layout_medicine_query.xml.flat",
+        "source": "E:\\androidStudio\\project\\ZZ\\app\\src\\main\\res\\layout\\medicine_query.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\ZZ\\app\\build\\intermediates\\res\\merged\\debug\\raw_zz_data_recipe_medicine_map.sql.flat",
+        "source": "E:\\androidStudio\\project\\ZZ\\app\\src\\main\\res\\raw\\zz_data_recipe_medicine_map.sql"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\ZZ\\app\\build\\intermediates\\res\\merged\\debug\\raw_zz_data.xls.flat",
+        "source": "E:\\androidStudio\\project\\ZZ\\app\\src\\main\\res\\raw\\zz_data.xls"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\ZZ\\app\\build\\intermediates\\res\\merged\\debug\\raw_db_upgrade.sql.flat",
+        "source": "E:\\androidStudio\\project\\ZZ\\app\\src\\main\\res\\raw\\db_upgrade.sql"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\ZZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_menu_about.png.flat",
+        "source": "E:\\androidStudio\\project\\ZZ\\app\\src\\main\\res\\drawable\\icon_menu_about.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\ZZ\\app\\build\\intermediates\\res\\merged\\debug\\raw_zz_data_subject.sql.flat",
+        "source": "E:\\androidStudio\\project\\ZZ\\app\\src\\main\\res\\raw\\zz_data_subject.sql"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\ZZ\\app\\build\\intermediates\\res\\merged\\debug\\layout_rx_recipe_detail_edit.xml.flat",
+        "source": "E:\\androidStudio\\project\\ZZ\\app\\src\\main\\res\\layout\\rx_recipe_detail_edit.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\ZZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scrollbar_vertical_track.xml.flat",
+        "source": "E:\\androidStudio\\project\\ZZ\\app\\src\\main\\res\\drawable\\scrollbar_vertical_track.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\ZZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable_alert_dialog_icon.png.flat",
+        "source": "E:\\androidStudio\\project\\ZZ\\app\\src\\main\\res\\drawable\\alert_dialog_icon.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\ZZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable_line.xml.flat",
+        "source": "E:\\androidStudio\\project\\ZZ\\app\\src\\main\\res\\drawable\\line.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\ZZ\\app\\build\\intermediates\\res\\merged\\debug\\raw_db_create.sql.flat",
+        "source": "E:\\androidStudio\\project\\ZZ\\app\\src\\main\\res\\raw\\db_create.sql"
+    }
+]

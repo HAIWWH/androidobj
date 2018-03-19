@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "E:\\androidStudio\\project\\com.qz.transaction.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout_buylists.xml.flat",
+        "source": "E:\\androidStudio\\project\\com.qz.transaction.MainActivity\\app\\src\\main\\res\\layout\\buylists.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\com.qz.transaction.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout_normalusers.xml.flat",
+        "source": "E:\\androidStudio\\project\\com.qz.transaction.MainActivity\\app\\src\\main\\res\\layout\\normalusers.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\com.qz.transaction.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout_admin_goodsoperate.xml.flat",
+        "source": "E:\\androidStudio\\project\\com.qz.transaction.MainActivity\\app\\src\\main\\res\\layout\\admin_goodsoperate.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\com.qz.transaction.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_topbackp.png.flat",
+        "source": "E:\\androidStudio\\project\\com.qz.transaction.MainActivity\\app\\src\\main\\res\\drawable-hdpi\\topbackp.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\com.qz.transaction.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout_goodsinformation.xml.flat",
+        "source": "E:\\androidStudio\\project\\com.qz.transaction.MainActivity\\app\\src\\main\\res\\layout\\goodsinformation.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\com.qz.transaction.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item.xml.flat",
+        "source": "E:\\androidStudio\\project\\com.qz.transaction.MainActivity\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\com.qz.transaction.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_search.png.flat",
+        "source": "E:\\androidStudio\\project\\com.qz.transaction.MainActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\com.qz.transaction.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "E:\\androidStudio\\project\\com.qz.transaction.MainActivity\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\com.qz.transaction.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout_productsinfo.xml.flat",
+        "source": "E:\\androidStudio\\project\\com.qz.transaction.MainActivity\\app\\src\\main\\res\\layout\\productsinfo.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\com.qz.transaction.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout_personalsetting.xml.flat",
+        "source": "E:\\androidStudio\\project\\com.qz.transaction.MainActivity\\app\\src\\main\\res\\layout\\personalsetting.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\com.qz.transaction.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout_user_listview.xml.flat",
+        "source": "E:\\androidStudio\\project\\com.qz.transaction.MainActivity\\app\\src\\main\\res\\layout\\user_listview.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\com.qz.transaction.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_search.png.flat",
+        "source": "E:\\androidStudio\\project\\com.qz.transaction.MainActivity\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\com.qz.transaction.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout_productmessage.xml.flat",
+        "source": "E:\\androidStudio\\project\\com.qz.transaction.MainActivity\\app\\src\\main\\res\\layout\\productmessage.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\com.qz.transaction.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "E:\\androidStudio\\project\\com.qz.transaction.MainActivity\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\com.qz.transaction.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "E:\\androidStudio\\project\\com.qz.transaction.MainActivity\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\com.qz.transaction.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout_productpublish.xml.flat",
+        "source": "E:\\androidStudio\\project\\com.qz.transaction.MainActivity\\app\\src\\main\\res\\layout\\productpublish.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\com.qz.transaction.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main.xml.flat",
+        "source": "E:\\androidStudio\\project\\com.qz.transaction.MainActivity\\app\\src\\main\\res\\menu\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\com.qz.transaction.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\androidStudio\\project\\com.qz.transaction.MainActivity\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\com.qz.transaction.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_search.png.flat",
+        "source": "E:\\androidStudio\\project\\com.qz.transaction.MainActivity\\app\\src\\main\\res\\drawable-mdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\com.qz.transaction.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout_admin_personal_setting.xml.flat",
+        "source": "E:\\androidStudio\\project\\com.qz.transaction.MainActivity\\app\\src\\main\\res\\layout\\admin_personal_setting.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\com.qz.transaction.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout_products.xml.flat",
+        "source": "E:\\androidStudio\\project\\com.qz.transaction.MainActivity\\app\\src\\main\\res\\layout\\products.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\com.qz.transaction.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout_admin_useroperate_add_change.xml.flat",
+        "source": "E:\\androidStudio\\project\\com.qz.transaction.MainActivity\\app\\src\\main\\res\\layout\\admin_useroperate_add_change.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\com.qz.transaction.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout_admin_useroperate.xml.flat",
+        "source": "E:\\androidStudio\\project\\com.qz.transaction.MainActivity\\app\\src\\main\\res\\layout\\admin_useroperate.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\com.qz.transaction.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout_admin_main.xml.flat",
+        "source": "E:\\androidStudio\\project\\com.qz.transaction.MainActivity\\app\\src\\main\\res\\layout\\admin_main.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\com.qz.transaction.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout_login.xml.flat",
+        "source": "E:\\androidStudio\\project\\com.qz.transaction.MainActivity\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\com.qz.transaction.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout_publish.xml.flat",
+        "source": "E:\\androidStudio\\project\\com.qz.transaction.MainActivity\\app\\src\\main\\res\\layout\\publish.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\com.qz.transaction.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\androidStudio\\project\\com.qz.transaction.MainActivity\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

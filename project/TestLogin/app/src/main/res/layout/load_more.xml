@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<RelativeLayout  
+  xmlns:Android="http://schemas.android.com/apk/res/android"  
+  Android:orientation="horizontal"  
+  Android:layout_width="fill_parent"  
+  Android:layout_height="wrap_content">  
+ <LinearLayout Android:layout_width="wrap_content"  
+  Android:layout_height="wrap_content"
+  Android:layout_centerHorizontal="true">
+ <ProgressBar Android:id="@+id/show_progressBar"
+       Android:layout_width="25dip"
+       Android:layout_height="25dip"
+       />    
+ <TextView Android:id="@+id/show_txt"
+ 		Android:layout_width="wrap_content"
+ 		Android:layout_height="wrap_content" 
+ 		Android:text="正在加载..."
+ 		/>   
+</LinearLayout>  		     
+</RelativeLayout> 

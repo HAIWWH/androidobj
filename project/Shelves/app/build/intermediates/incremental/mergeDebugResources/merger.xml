@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="E:\androidStudio\project\Shelves\app\src\main\res"/><source path="E:\androidStudio\project\Shelves\app\build\generated\res\rs\debug"/><source path="E:\androidStudio\project\Shelves\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="E:\androidStudio\project\Shelves\app\src\main\res"><file name="popup_enter" path="E:\androidStudio\project\Shelves\app\src\main\res\anim\popup_enter.xml" qualifiers="" type="anim"/><file name="popup_exit" path="E:\androidStudio\project\Shelves\app\src\main\res\anim\popup_exit.xml" qualifiers="" type="anim"/><file name="slide_in" path="E:\androidStudio\project\Shelves\app\src\main\res\anim\slide_in.xml" qualifiers="" type="anim"/><file name="slide_in_top" path="E:\androidStudio\project\Shelves\app\src\main\res\anim\slide_in_top.xml" qualifiers="" type="anim"/><file name="slide_out" path="E:\androidStudio\project\Shelves\app\src\main\res\anim\slide_out.xml" qualifiers="" type="anim"/><file name="slide_out_top" path="E:\androidStudio\project\Shelves\app\src\main\res\anim\slide_out_top.xml" qualifiers="" type="anim"/><file name="background_paper" path="E:\androidStudio\project\Shelves\app\src\main\res\drawable\background_paper.xml" qualifiers="" type="drawable"/><file name="background_shelf" path="E:\androidStudio\project\Shelves\app\src\main\res\drawable\background_shelf.xml" qualifiers="" type="drawable"/><file name="details_paper" path="E:\androidStudio\project\Shelves\app\src\main\res\drawable\details_paper.jpg" qualifiers="" type="drawable"/><file name="ic_btn_search" path="E:\androidStudio\project\Shelves\app\src\main\res\drawable\ic_btn_search.png" qualifiers="" type="drawable"/><file name="ic_menu_add" path="E:\androidStudio\project\Shelves\app\src\main\res\drawable\ic_menu_add.png" qualifiers="" type="drawable"/><file name="ic_menu_check" path="E:\androidStudio\project\Shelves\app\src\main\res\drawable\ic_menu_check.png" qualifiers="" type="drawable"/><file name="ic_menu_scan" path="E:\androidStudio\project\Shelves\app\src\main\res\drawable\ic_menu_scan.png" qualifiers="" type="drawable"/><file name="search_plate" path="E:\androidStudio\project\Shelves\app\src\main\res\drawable\search_plate.9.png" qualifiers="" type="drawable"/><file name="shelf_panel" path="E:\androidStudio\project\Shelves\app\src\main\res\drawable\shelf_panel.png" qualifiers="" type="drawable"/><file name="shelf_shadow" path="E:\androidStudio\project\Shelves\app\src\main\res\drawable\shelf_shadow.9.png" qualifiers="" type="drawable"/><file name="spotlight" path="E:\androidStudio\project\Shelves\app\src\main\res\drawable\spotlight.png" qualifiers="" type="drawable"/><file name="spotlight_blue" path="E:\androidStudio\project\Shelves\app\src\main\res\drawable\spotlight_blue.png" qualifiers="" type="drawable"/><file name="unknown_book" path="E:\androidStudio\project\Shelves\app\src\main\res\drawable\unknown_book.png" qualifiers="" type="drawable"/><file name="unknown_cover" path="E:\androidStudio\project\Shelves\app\src\main\res\drawable\unknown_cover.png" qualifiers="" type="drawable"/><file name="unknown_cover_no_shadow" path="E:\androidStudio\project\Shelves\app\src\main\res\drawable\unknown_cover_no_shadow.png" qualifiers="" type="drawable"/><file name="web_left" path="E:\androidStudio\project\Shelves\app\src\main\res\drawable\web_left.png" qualifiers="" type="drawable"/><file name="web_right" path="E:\androidStudio\project\Shelves\app\src\main\res\drawable\web_right.png" qualifiers="" type="drawable"/><file name="book_notification" path="E:\androidStudio\project\Shelves\app\src\main\res\layout\book_notification.xml" qualifiers="" type="layout"/><file name="grid_position" path="E:\androidStudio\project\Shelves\app\src\main\res\layout\grid_position.xml" qualifiers="" type="layout"/><file name="progress_overlay" path="E:\androidStudio\project\Shelves\app\src\main\res\layout\progress_overlay.xml" qualifiers="" type="layout"/><file name="screen_add_search" path="E:\androidStudio\project\Shelves\app\src\main\res\layout\screen_add_search.xml" qualifiers="" type="layout"/><file name="screen_bookdetails" path="E:\androidStudio\project\Shelves\app\src\main\res\layout\screen_bookdetails.xml" qualifiers="" type="layout"/><file name="screen_shelves" path="E:\androidStudio\project\Shelves\app\src\main\res\layout\screen_shelves.xml" qualifiers="" type="layout"/><file name="search_bar" path="E:\androidStudio\project\Shelves\app\src\main\res\layout\search_bar.xml" qualifiers="" type="layout"/><file name="search_result_book" path="E:\androidStudio\project\Shelves\app\src\main\res\layout\search_result_book.xml" qualifiers="" type="layout"/><file name="shelf_book" path="E:\androidStudio\project\Shelves\app\src\main\res\layout\shelf_book.xml" qualifiers="" type="layout"/><file name="book" path="E:\androidStudio\project\Shelves\app\src\main\res\menu\book.xml" qualifiers="" type="menu"/><file name="shelves" path="E:\androidStudio\project\Shelves\app\src\main\res\menu\shelves.xml" qualifiers="" type="menu"/><file path="E:\androidStudio\project\Shelves\app\src\main\res\values\arrays.xml" qualifiers=""><string-array name="prefixes">
+        <item>the</item>
+        <item>a</item>
+        <item>an</item>
+        <item>le</item>
+        <item>la</item>
+        <item>les</item>
+        <item>l\'</item>
+        <item>die</item>
+        <item>der</item>
+        <item>das</item>
+    </string-array><string-array name="suffixes">
+        <item>,the</item>
+        <item>,a</item>
+        <item>,an</item>
+        <item>,le</item>
+        <item>,la</item>
+        <item>,les</item>
+        <item>,l\'</item>
+        <item>,die</item>
+        <item>,der</item>
+        <item>,das</item>
+        <item>, the</item>
+        <item>, a</item>
+        <item>, an</item>
+        <item>, le</item>
+        <item>, la</item>
+        <item>, les</item>
+        <item>, l\'</item>
+        <item>, die</item>
+        <item>, der</item>
+        <item>, das</item>
+    </string-array></file><file path="E:\androidStudio\project\Shelves\app\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="ShelvesView">
+        <attr format="reference" name="shelfBackground"/>
+    </declare-styleable><declare-styleable name="BookStore">
+        <attr format="string" name="name"/>
+        <attr format="string" name="label"/>
+        <attr format="string" name="storeClass"/>
+    </declare-styleable></file><file path="E:\androidStudio\project\Shelves\app\src\main\res\values\colors.xml" qualifiers=""><color name="translucent_dark">#99000000</color><color name="translucenter_dark">#bf000000</color><color name="bright_foreground_dark">#ffffffff</color></file><file path="E:\androidStudio\project\Shelves\app\src\main\res\values\strings.xml" qualifiers=""><string name="application_name">Shelves</string><string name="activity_preferences">Settings</string><string name="activity_book_details">Book details</string><string name="activity_add_book">Add book</string><string name="bookstore_all">All stores</string><string name="bookstore_amazon">Amazon</string><string name="bookstore_google">Google</string><string name="error_missing_barcode_scanner">You must first install the application Barcode Scanner</string><string name="error_import_in_progress">You are already importing books</string><string name="error_search_in_progress">You are already searching for books</string><string name="error_missing_import_file">Could not find /sdcard/library.txt</string><string name="error_adding_book">Could not find book</string><string name="error_book_exists">You already have this book</string><string name="success_imported">Successfully imported %d books</string><string name="success_added">Successfully added book %s</string><string name="success_book_not_found">You do not have this book</string><string name="success_book_deleted">Book deleted</string><string name="success_found">Found %d books</string><string name="menu_item_add_search_label">Add</string><string name="menu_item_add_label">Scan to add</string><string name="menu_item_check_label">Scan to find</string><string name="menu_item_search_label">Search</string><string name="menu_item_settings_label">Settings</string><string name="context_menu_item_view_label">View</string><string name="context_menu_item_buy_label">Buy</string><string name="context_menu_item_delete_label">Delete</string><string name="add_label">Adding...</string><string name="import_label">Importing...</string><string name="cancel_label">Cancel</string><string name="search_label">Books</string><string name="search_hint">Search by title or author</string><string name="search_title">Search for books to add</string><string name="search_add_hint">Title, author or keywords</string><string name="search_progress">Searching...</string><string name="label_pages">%s pages</string><string name="dialog_add_message">Do you want to add this book to your collection?</string><string name="dialog_add_ok">Add</string><string name="dialog_add_cancel">Don\'t add</string><string name="preferences_category_bookstore">Books</string><string name="preferences_bookstore">Book store</string><string name="preferences_bookstore_summary">Your books will be imported from %s</string><string name="preferences_bookstore_dialog_title">Choose a book store</string><string name="preferences_category_data">Data management</string><string name="preferences_import">Import</string><string name="preferences_import_summary">Import a list of books from the file called library.txt on the SD card</string><string name="preferences_backup">Backup</string><string name="preferences_backup_summary">Backup all your data on the SD card</string><string name="preferences_restore">Restore</string><string name="preferences_restore_summary">Restore your data from the SD card</string></file><file path="E:\androidStudio\project\Shelves\app\src\main\res\values\styles.xml" qualifiers=""><style name="PopupAnimation" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/popup_enter</item>
+        <item name="android:windowExitAnimation">@anim/popup_exit</item>
+    </style><style name="DetailsLabel">
+        <item name="android:shadowColor">#FF000000</item>
+        <item name="android:shadowRadius">3.0</item>
+        <item name="android:textColor">#FFF</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style><style name="DetailsLabel.Small">
+        <item name="android:singleLine">true</item>
+        <item name="android:textSize">13dip</item>
+    </style><style name="DetailsLabel.Medium">
+        <item name="android:maxLines">2</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:textSize">15dip</item>
+    </style><style name="DetailsLabel.Large">
+        <item name="android:maxLines">2</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:textSize">18dip</item>
+        <item name="android:textStyle">bold</item>
+    </style></file><file path="E:\androidStudio\project\Shelves\app\src\main\res\values\themes.xml" qualifiers=""><style name="Theme.Shelves" parent="android:Theme">
+        <item name="android:windowBackground">@drawable/background_shelf</item>
+        <item name="android:windowNoTitle">true</item>
+    </style></file><file name="bookstores" path="E:\androidStudio\project\Shelves\app\src\main\res\xml\bookstores.xml" qualifiers="" type="xml"/><file name="preferences" path="E:\androidStudio\project\Shelves\app\src\main\res\xml\preferences.xml" qualifiers="" type="xml"/><file name="searchable" path="E:\androidStudio\project\Shelves\app\src\main\res\xml\searchable.xml" qualifiers="" type="xml"/></source><source path="E:\androidStudio\project\Shelves\app\build\generated\res\rs\debug"/><source path="E:\androidStudio\project\Shelves\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="E:\androidStudio\project\Shelves\app\src\debug\res"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="E:\androidStudio\project\Shelves\app\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="BookStore"><attr format="string" name="name"/><attr format="string" name="label"/><attr format="string" name="storeClass"/></declare-styleable><declare-styleable name="ShelvesView"><attr format="reference" name="shelfBackground"/></declare-styleable></configuration></mergedItems></merger>

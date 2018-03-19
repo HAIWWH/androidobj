@@ -1,0 +1,99 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml:17:1-67:12
+INJECTED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml:17:1-67:12
+INJECTED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml:17:1-67:12
+INJECTED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml:17:1-67:12
+INJECTED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml:17:1-67:12
+INJECTED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml:17:1-67:12
+INJECTED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml:17:1-67:12
+	package
+		ADDED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml:18:5-30
+		INJECTED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml
+		INJECTED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml:19:5-32
+		INJECTED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml
+		INJECTED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml:17:11-69
+	android:versionCode
+		ADDED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml:19:33-56
+		INJECTED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml
+		INJECTED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml:21:5-43
+INJECTED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml:21:5-43
+INJECTED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml:21:5-43
+INJECTED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml:21:5-43
+INJECTED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml:21:5-43
+	android:targetSdkVersion
+		INJECTED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml
+		ADDED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml:21:5-43
+		INJECTED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml:21:15-40
+		INJECTED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml
+		INJECTED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml
+application
+ADDED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml:23:5-66:19
+	android:label
+		ADDED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml:24:9-41
+	android:debuggable
+		ADDED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml:25:42-67
+	android:icon
+		ADDED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml:25:9-41
+	android:name
+		ADDED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml:23:18-35
+activity#efan.zz.android.activity.WelcomeRxRecipeQuery
+ADDED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml:27:9-33:20
+	android:windowSoftInputMode
+		ADDED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml:28:13-54
+	android:name
+		ADDED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml:27:19-64
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml:29:13-32:29
+action#android.intent.action.MAIN
+ADDED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml:31:27-74
+activity#efan.zz.android.activity.RxRecipeDetail
+ADDED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml:35:9-40:20
+	android:name
+		ADDED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml:35:19-58
+intent-filter#android.intent.action.VIEW+android.intent.category.PREFERENCE
+ADDED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml:36:13-39:29
+action#android.intent.action.VIEW
+ADDED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml:37:25-66
+category#android.intent.category.PREFERENCE
+ADDED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml:38:17-79
+	android:name
+		ADDED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml:38:27-76
+activity#efan.zz.android.activity.RxRecipeDetailEdit
+ADDED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml:42:9-48:20
+	android:windowSoftInputMode
+		ADDED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml:43:13-54
+	android:name
+		ADDED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml:42:19-62
+intent-filter#android.intent.action.INSERT_OR_EDIT+android.intent.category.PREFERENCE
+ADDED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml:44:13-47:29
+action#android.intent.action.INSERT_OR_EDIT
+ADDED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml:45:25-76
+activity#efan.zz.android.activity.MedicineQuery
+ADDED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml:51:9-57:20
+	android:windowSoftInputMode
+		ADDED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml:52:13-54
+	android:name
+		ADDED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml:51:19-57
+activity#efan.zz.android.activity.MedicineDetail
+ADDED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml:59:9-64:20
+	android:name
+		ADDED from E:\androidStudio\project\ZZ\app\src\main\AndroidManifest.xml:59:19-58

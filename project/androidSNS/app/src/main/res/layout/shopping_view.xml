@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:baselineAligned="false"
+    android:gravity="center"
+    android:isScrollContainer="true"
+    android:orientation="vertical" >
+
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dip"
+        android:background="@drawable/top_bar_bg"
+        android:layout_gravity="center_vertical|top"
+        android:gravity="center_vertical|top"
+        android:orientation="horizontal"
+        android:paddingRight="2dip" >
+
+        <TextView
+            android:id="@+id/tv_back_btn"
+            android:layout_width="50dip"
+            android:layout_height="30dip"
+            android:layout_gravity="center_vertical"
+            android:background="@drawable/top_bar_left_bg"
+            android:gravity="center_vertical"
+            android:paddingLeft="16dip"
+            android:text="首页"
+            android:textColor="#FFFFFF"
+            android:textSize="20px" >
+        </TextView>
+
+        <TextView
+            android:layout_width="60dip"
+            android:layout_height="30dip"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="0.43"
+            android:background="@drawable/top_bar_left"
+            android:gravity="center"
+            android:text="衣服"
+            android:textColor="#FFFFFF"
+            android:textSize="20px" >
+        </TextView>
+
+        <TextView
+            android:layout_width="60dip"
+            android:layout_height="30dip"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="0.43"
+            android:background="@drawable/top_bar_middle"
+            android:gravity="center"
+            android:text="鞋包"
+            android:textColor="#FFFFFF"
+            android:textSize="20px" >
+        </TextView>
+
+        <TextView
+            android:layout_width="60dip"
+            android:layout_height="30dip"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="0.43"
+            android:background="@drawable/top_bar_right"
+            android:gravity="center"
+            android:text="配饰"
+            android:textColor="#FFFFFF"
+            android:textSize="24px" >
+        </TextView>
+
+        <TextView
+            android:layout_width="60dip"
+            android:layout_height="30dip"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="3dip"
+            android:layout_marginRight="5dip"
+            android:layout_weight="0.43"
+            android:background="@drawable/top_bar_more"
+            android:gravity="center"
+            android:text="更多"
+            android:textColor="#FFFFFF"
+            android:textSize="20px" >
+        </TextView>
+    </LinearLayout>
+
+	<ScrollView
+	    xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:id="@+id/ScrollView"
+	    android:layout_width="fill_parent"
+	    android:layout_height="match_parent"
+	    android:scrollbars="vertical" >
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+		    android:layout_width="match_parent"
+		    android:layout_height="match_parent"
+		    android:background="#FFFFFF"
+		    android:baselineAligned="false"
+		    android:gravity="center"
+		    android:isScrollContainer="true"
+		    android:orientation="vertical" >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="245dip"
+        android:layout_marginTop="10dip"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingRight="2dip" >
+
+        <ImageView
+            android:id="@+id/iv_icon"
+            android:layout_width="160dip"
+            android:layout_height="240dp"
+            android:layout_gravity="left"
+            android:layout_marginBottom="5dip"
+            android:layout_marginLeft="2dip"
+            android:layout_weight="1.12"
+            android:scaleType="centerInside"
+            android:src="@drawable/looks_pic3" >
+        </ImageView>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dip"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingRight="2dip" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="0dip"
+            android:gravity="center_vertical|center"
+            android:orientation="horizontal"
+            android:paddingRight="2dip" >
+
+            <TextView
+                android:layout_width="91dp"
+                android:layout_height="29dp"
+                android:layout_gravity="center_vertical"
+                android:background="@drawable/slider_like_bg"
+                android:gravity="center_vertical|center"
+                android:scaleType="centerInside"
+                android:text="喜欢(520)"
+                android:textColor="#FF0000"
+                android:textSize="24px" >
+            </TextView>
+
+            <TextView
+                android:layout_width="91dp"
+                android:layout_height="29dp"
+                android:layout_gravity="center_vertical"
+                android:background="@drawable/slider_like_bg"
+                android:gravity="center"
+                android:scaleType="centerInside"
+                android:text="评论(2011)"
+                android:textColor="#222266"
+                android:textSize="24px" >
+            </TextView>
+        </LinearLayout>
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dip"
+        android:scaleType="fitXY"
+        android:src="@drawable/user_home_t_divider" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+      
+        android:paddingTop="0dip"
+        android:paddingBottom="0dip"
+        android:gravity="center_vertical"
+        android:layout_gravity="center_vertical"
+        android:minHeight="100dip"
+        android:orientation="horizontal"
+        android:paddingRight="2dip" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="40dip"
+            android:layout_gravity="left|top"
+            android:gravity="center"
+            android:text="阳光爱上猫"
+            android:textColor="#FF0000"
+            android:textSize="24px" />
+
+        <TextView
+            android:layout_width="5dip"
+            android:layout_height="40dip"
+            android:layout_gravity="left|top"
+            android:gravity="center"
+            android:text=":"
+            android:textColor="#000000"
+            android:textSize="24px" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="0dip"
+        	android:paddingBottom="0dip"
+            android:layout_gravity="right|top"
+            android:gravity="left|top"
+            android:text="我第一次看上她就喜欢上她买懂衣服啦..."
+            android:textColor="#000000"
+            android:textSize="24px" >
+
+        </TextView>
+
+        
+    </LinearLayout>
+	<ImageView
+         android:layout_width="fill_parent"
+         android:layout_height="wrap_content"
+         android:layout_gravity="center_vertical|top"
+         android:scaleType="fitXY"
+         android:src="@drawable/user_home_t_divider" />
+	
+	<LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dip"
+        android:layout_marginTop="2dip"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingRight="2dip" >
+ 
+         <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|top"
+            android:gravity="left"
+            android:text="@string/website"
+            android:textColor="#555555"
+            android:textSize="24px" >
+        </TextView>
+	</LinearLayout>
+	</LinearLayout>
+	</ScrollView>
+</LinearLayout>

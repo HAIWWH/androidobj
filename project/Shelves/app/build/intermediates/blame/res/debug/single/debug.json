@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "E:\\androidStudio\\project\\Shelves\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_scan.png.flat",
+        "source": "E:\\androidStudio\\project\\Shelves\\app\\src\\main\\res\\drawable\\ic_menu_scan.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Shelves\\app\\build\\intermediates\\res\\merged\\debug\\menu_book.xml.flat",
+        "source": "E:\\androidStudio\\project\\Shelves\\app\\src\\main\\res\\menu\\book.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Shelves\\app\\build\\intermediates\\res\\merged\\debug\\layout_progress_overlay.xml.flat",
+        "source": "E:\\androidStudio\\project\\Shelves\\app\\src\\main\\res\\layout\\progress_overlay.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Shelves\\app\\build\\intermediates\\res\\merged\\debug\\drawable_spotlight.png.flat",
+        "source": "E:\\androidStudio\\project\\Shelves\\app\\src\\main\\res\\drawable\\spotlight.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Shelves\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shelf_shadow.9.png.flat",
+        "source": "E:\\androidStudio\\project\\Shelves\\app\\src\\main\\res\\drawable\\shelf_shadow.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Shelves\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shelf_panel.png.flat",
+        "source": "E:\\androidStudio\\project\\Shelves\\app\\src\\main\\res\\drawable\\shelf_panel.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Shelves\\app\\build\\intermediates\\res\\merged\\debug\\anim_popup_exit.xml.flat",
+        "source": "E:\\androidStudio\\project\\Shelves\\app\\src\\main\\res\\anim\\popup_exit.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Shelves\\app\\build\\intermediates\\res\\merged\\debug\\layout_book_notification.xml.flat",
+        "source": "E:\\androidStudio\\project\\Shelves\\app\\src\\main\\res\\layout\\book_notification.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Shelves\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_check.png.flat",
+        "source": "E:\\androidStudio\\project\\Shelves\\app\\src\\main\\res\\drawable\\ic_menu_check.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Shelves\\app\\build\\intermediates\\res\\merged\\debug\\layout_search_result_book.xml.flat",
+        "source": "E:\\androidStudio\\project\\Shelves\\app\\src\\main\\res\\layout\\search_result_book.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Shelves\\app\\build\\intermediates\\res\\merged\\debug\\drawable_web_right.png.flat",
+        "source": "E:\\androidStudio\\project\\Shelves\\app\\src\\main\\res\\drawable\\web_right.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Shelves\\app\\build\\intermediates\\res\\merged\\debug\\xml_preferences.xml.flat",
+        "source": "E:\\androidStudio\\project\\Shelves\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Shelves\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_top.xml.flat",
+        "source": "E:\\androidStudio\\project\\Shelves\\app\\src\\main\\res\\anim\\slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Shelves\\app\\build\\intermediates\\res\\merged\\debug\\drawable_web_left.png.flat",
+        "source": "E:\\androidStudio\\project\\Shelves\\app\\src\\main\\res\\drawable\\web_left.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Shelves\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_top.xml.flat",
+        "source": "E:\\androidStudio\\project\\Shelves\\app\\src\\main\\res\\anim\\slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Shelves\\app\\build\\intermediates\\res\\merged\\debug\\layout_grid_position.xml.flat",
+        "source": "E:\\androidStudio\\project\\Shelves\\app\\src\\main\\res\\layout\\grid_position.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Shelves\\app\\build\\intermediates\\res\\merged\\debug\\menu_shelves.xml.flat",
+        "source": "E:\\androidStudio\\project\\Shelves\\app\\src\\main\\res\\menu\\shelves.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Shelves\\app\\build\\intermediates\\res\\merged\\debug\\layout_shelf_book.xml.flat",
+        "source": "E:\\androidStudio\\project\\Shelves\\app\\src\\main\\res\\layout\\shelf_book.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Shelves\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search_plate.9.png.flat",
+        "source": "E:\\androidStudio\\project\\Shelves\\app\\src\\main\\res\\drawable\\search_plate.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Shelves\\app\\build\\intermediates\\res\\merged\\debug\\drawable_unknown_book.png.flat",
+        "source": "E:\\androidStudio\\project\\Shelves\\app\\src\\main\\res\\drawable\\unknown_book.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Shelves\\app\\build\\intermediates\\res\\merged\\debug\\anim_popup_enter.xml.flat",
+        "source": "E:\\androidStudio\\project\\Shelves\\app\\src\\main\\res\\anim\\popup_enter.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Shelves\\app\\build\\intermediates\\res\\merged\\debug\\drawable_spotlight_blue.png.flat",
+        "source": "E:\\androidStudio\\project\\Shelves\\app\\src\\main\\res\\drawable\\spotlight_blue.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Shelves\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out.xml.flat",
+        "source": "E:\\androidStudio\\project\\Shelves\\app\\src\\main\\res\\anim\\slide_out.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Shelves\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_btn_search.png.flat",
+        "source": "E:\\androidStudio\\project\\Shelves\\app\\src\\main\\res\\drawable\\ic_btn_search.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Shelves\\app\\build\\intermediates\\res\\merged\\debug\\drawable_details_paper.jpg.flat",
+        "source": "E:\\androidStudio\\project\\Shelves\\app\\src\\main\\res\\drawable\\details_paper.jpg"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Shelves\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in.xml.flat",
+        "source": "E:\\androidStudio\\project\\Shelves\\app\\src\\main\\res\\anim\\slide_in.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Shelves\\app\\build\\intermediates\\res\\merged\\debug\\xml_bookstores.xml.flat",
+        "source": "E:\\androidStudio\\project\\Shelves\\app\\src\\main\\res\\xml\\bookstores.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Shelves\\app\\build\\intermediates\\res\\merged\\debug\\layout_screen_shelves.xml.flat",
+        "source": "E:\\androidStudio\\project\\Shelves\\app\\src\\main\\res\\layout\\screen_shelves.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Shelves\\app\\build\\intermediates\\res\\merged\\debug\\drawable_unknown_cover_no_shadow.png.flat",
+        "source": "E:\\androidStudio\\project\\Shelves\\app\\src\\main\\res\\drawable\\unknown_cover_no_shadow.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Shelves\\app\\build\\intermediates\\res\\merged\\debug\\drawable_unknown_cover.png.flat",
+        "source": "E:\\androidStudio\\project\\Shelves\\app\\src\\main\\res\\drawable\\unknown_cover.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Shelves\\app\\build\\intermediates\\res\\merged\\debug\\layout_screen_bookdetails.xml.flat",
+        "source": "E:\\androidStudio\\project\\Shelves\\app\\src\\main\\res\\layout\\screen_bookdetails.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Shelves\\app\\build\\intermediates\\res\\merged\\debug\\layout_search_bar.xml.flat",
+        "source": "E:\\androidStudio\\project\\Shelves\\app\\src\\main\\res\\layout\\search_bar.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Shelves\\app\\build\\intermediates\\res\\merged\\debug\\xml_searchable.xml.flat",
+        "source": "E:\\androidStudio\\project\\Shelves\\app\\src\\main\\res\\xml\\searchable.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Shelves\\app\\build\\intermediates\\res\\merged\\debug\\layout_screen_add_search.xml.flat",
+        "source": "E:\\androidStudio\\project\\Shelves\\app\\src\\main\\res\\layout\\screen_add_search.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Shelves\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_paper.xml.flat",
+        "source": "E:\\androidStudio\\project\\Shelves\\app\\src\\main\\res\\drawable\\background_paper.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Shelves\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_add.png.flat",
+        "source": "E:\\androidStudio\\project\\Shelves\\app\\src\\main\\res\\drawable\\ic_menu_add.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\project\\Shelves\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_shelf.xml.flat",
+        "source": "E:\\androidStudio\\project\\Shelves\\app\\src\\main\\res\\drawable\\background_shelf.xml"
+    }
+]
