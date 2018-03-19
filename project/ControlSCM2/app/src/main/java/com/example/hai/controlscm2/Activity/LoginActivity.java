@@ -57,7 +57,6 @@ public class LoginActivity extends AppCompatActivity {
                     startService(intent);
                 }
 
-
                 break;
         }
     }
