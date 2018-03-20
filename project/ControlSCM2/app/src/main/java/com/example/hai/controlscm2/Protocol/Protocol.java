@@ -130,6 +130,7 @@ public class Protocol {
 			msgData = sb.toString();/*将接收到的数据转换成字符串*/
 		}
 
+
 		/*小车界面(未完成)*/
 		else if(deviceClass >0 && deviceClass <= 2 ){
 			sb.append(1);/*在字符串头加入一个数字主要是为了判断哪一个界面来接收（小车界面）*/
@@ -142,6 +143,7 @@ public class Protocol {
 			}
 			msgData = sb.toString();/*将接收到的数据转换成字符串*/
 		}
+
 
 		/*GPS和电量界面(未完成)*/
 		else if(deviceClass >2 && deviceClass <= 5){
@@ -259,8 +261,8 @@ public class Protocol {
 
 
 
-
-	static class Protocol_head {   /* 静态内部类报文头部类*/
+	/* 静态内部类报文头部类*/
+	static class Protocol_head {
 		private static final byte OPVULTEKEN = 0x7E; /* 前导符 */
 		private static final byte IOCTL = (byte)33;/*控制码*/
 		private static short T_NR = (short)(Math.random() * 100);/*报文序列号（随机生成一个0到100的数）*/
